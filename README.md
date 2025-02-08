@@ -1,12 +1,8 @@
-Umineko Scripting
-=================
 
-[![Build Status](../../workflows/CI/badge.svg)](../../actions)
 
-This is the script code and select related tools empowering [Umineko Project port](https://umineko-project.org) of Umineko no Naku Koro ni from PlayStation 3. The code present here is not finished and remains being in development state.
+To jest Polskie Tłumaczenie do Umineko Project (projekt jeszcze nie rozpoczęty)
 
 #### Credits
-- Umineko Project
-- Knox Translations
-- SNS Team
-- All third-party contributors and authors
+
+Tłumaczenie - MichaelRed
+Korekta - Martusiaxxxx, CzewaTron
