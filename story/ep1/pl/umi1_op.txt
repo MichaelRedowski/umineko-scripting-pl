@@ -42,7 +42,7 @@
 `".........Nanjo.`
 ` Bądź ze mną szczery.`
 ` Ile czasu jeszcze mi pozostało?"`
-`"Well now...`
+`"Cóż teraz...`
 ` Jak krótko muszę to robić, żebyś przestał pić?"`
 `Nanjo ponownie westchnął z rezygnacji.`
 `{n}Obserwował, jak Kinzo opuszcza szklankę bez względu na wszystko, przemówił.`
@@ -134,186 +134,186 @@
 ` Nie do uwierzenia, że byliśmy w stanie dojechać w podróż w zaledwie dwadzieścia minut..."`
 `Nie mogłem na nic poradzić niż zadrapać się po głowie i podziwiać, jak daleko sprawy zaszły w ostatnich latach.`
 `{n}Kiedyś podróżowaliśmy łódką.`
-`Wtedy, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
-` Things have gotten so much more convenient these days.`
+`Wtedy, Wszyscy byliśmy zmuszeni znieść prawie pół dnia kołysania się tam i z powrotem nad morzem, zanim dotarliśmy do Niijimy.`
+` W dzisiejszych czasach wszystko stało się o wiele wygodniejsze.`
 `Wciąż, Nigdy nie byłem w takim małym samolocie.`
-`{n}I've flown in a huge jumbo jet before, but this will be my first experience in such a tiny one.`
+`{n}Leciałem już wcześniej wielkim jumbo jetem, ale to jest moje pierwsze doświadczenie z takim malusieńkim.`
 `...Będzie trząść, prawda...`
-` They say that smaller boats shake more, so I guess the same rule probably applies to planes.`
+` Mówili że małe łodzie trząsły bardziej, więc myślę że ta sama zasada dotyczy się również.`
 `...Aaah, oszczędźcie mnie.`
-`"Haahahaha, don't worry, Battler‐kun.`
-` It'll shake much less than that boat did."`
+`"Haahahaha, nie martw się, Battler‐kun.`
+` Będzie trząść mniej niż łódź."`
 `"Gyah?! ...C-czy to ty, George‐{c:86EF9C:aniki}?!"`
 `"Heheh, nie strasz mnie tak... Właśnie skróciłeś mi z trzy lata życia.`
 ` W każdym razie, what's shaking got to do with anything?"`
-`"Ihihihi, you don't think I'm actually scared of the plane shaking or maybe falling out of the sky or something, ri~ght?"`
-`"Oh, of course not, my mistake.`
-` I'm sure that you've changed a lot since we last saw you.`
+`"Ihihihi, nie myślisz że że ja faktycznie się boję trząsącego się samolotu albo może spadnięcie z nieba czy coś, pra~wda?"`
+`"Oh, oczywiście że nie, mój błąd.`
+` Jestem pewien że się bardzo zmieniłeś odkąd ostatnio cię widziałem.`
 ` W końcu, minęło odtąd sześć lat.`
 ` Nie jesteś już dzieckiem.`
 ` Hahahahaha."`
-`"Sheesh, and here you are, old enough to smoke and drink.`
-` I've got no interest in smoking, but I've always wanted to try some booze, heheheh!`
-` Well, if you've got your dad's genes, I'll bet you can hold your own when it comes to drinking, right?"`
-`"Well, I usually drink for business rather than pleasure.`
-` It's pretty hard to do business in Japan without it."`
+`"Ciii, i ty tu jesteś, wystarczająco duży żeby palić i pić.`
+` Palenie niezbyt mnie interesuje, ale zawsze chciałem spróbować trochę gorzałki, hihihihi!`
+` Cóż, jeśli masz geny ojca, Założę się, że radzisz sobie z piciem, prawda?"`
+`"Cóż, zazwyczaj piję dla spraw biznesowych niż dla przyjemności.`
+` Bez tego, jest całkiem ciężko robić biznes w Japonii."`
 `"Ihihihi!`
-` That's exactly right!`
-` So I was thinking I'd take my first shot at it tonight at dinner!"`
-`"Th‐that's no good, Battler‐kun, you're still a minor!`
-` Drinking alcohol is known to stunt the growth of minors and...`
-`...um, never mind."`
-`"Come on, I'm tall enough already!`
-` In fact, it'd be easier to find clothes if I shrunk a little!"`
-`I puffed my chest out proudly.`
-`Until I hit my growth spurt, my height was below average in my class.`
-`But then, I grew and grew, and before I knew it, I was over 180 cm.`
-`I guess I have all that muscle training and those shady mail‐order performance‐enhancing drugs to thank for that.`
-`Before then, I'd never dreamed that I'd shoot ten centimeters above George‐aniki, who'd reached his peak height early on.`
-`......Damn, I'll bet my relatives all say "look how big you've grown, Battler‐chan!" or something.`
-`...That kind of thing is really embarrassing, so I hope they cut me a break.`
-`Anyway, my name, "Battler"...`
-`...well, it's pretty damn weird, don't you think?`
-`I've got to wonder what my parents were thinking when they gave me that name.`
-`{n}I've never met anyone who could read it right the first time.`
-`I usually get called "{c:86EF9C:Sento‐kun}".`
-`{n}Too bad, swing and a miss.`
-`My name is written {p:0:右代宮 戦人}.`
-`{n}Can you read it?`
-` The first part is my family name, "Ushiromiya".`
-` That's a fairly plausible Japanese pronunciation so far.`
-`The problem is my own name.`
-`{n}.........{p:0:戦人} is made up of the characters for "fight" and "person", and it's pronounced "Battler".`
-`Put it all together, and you've got Ushiromiya Battler.`
-`Pretty crazy, right?`
-` It's crazy enough that my parents decided to call me that, but it's even more crazy that some government worker let them make it official.`
-` ...Both groups are at the top of my must‐kill list.`
-`Anyway, this is one of my cousins.`
-`His name is {p:0:右代宮 譲治}, pronounced Ushiromiya George.`
-`He's five years older than me, so he's probably turning 23 this year.`
-`{n}Since the Ushiromiya cousins consist of two boys and three girls, I ended up playing with George all the time.`
-`And because I've always thought of him as a big brother, I still call him "Aniki" today.`
-`"Whoo, Battler‐kun, look how big you've gotten.`
-` You know what they say, "leave a boy for three days and you'll hardly recognize him"!"`
-`"It must be in his blood, I suppose.`
-` Rudolf wasn't that tall either until around his high school years.`
-` Perhaps people end up taller if their growth spurt comes late."`
-`"Nah, it's nothing special.`
-` A real man needs to be tough on the inside too!"`
+` Dokładnie to miałem na myśli!`
+` Więc myślałem wezmę mój pierwszy shot dziś w trakcie kolacji!"`
+`"T-to nie jest dobre, Battler-kun, jesteś jeszcze młody!`
+` Picie alkoholu hamuje wzrost małoletnich i jest znane z tego, że...`
+`...um, nieważne."`
+`"Weż, Jestem już wystarczająco wysoki!`
+` W zasadzie, będzie łatwiej żeby znaleźć ubrania gdybym się trochę skurczył!"`
+`Dumnie wypiąłem pierś.`
+`Dopóki nie osiągnąłem zrywu wzrostowego, mój wzrost był poniżej średniej w mojej klasie.`
+`Ale wtedy, Kiedy rosłem i rosłem, i zanim to wiedziałem, miałem powyżej 180 cm.`
+`Myślę, że mam za to do zawdzięczenia cały ten trening mięśniowy i te podejrzane wysyłkowe leki zwiększające wydajność.`
+Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wyżej niż George-aniki, który wcześnie osiągnął swój szczytowy wzrost.`
+`......Cholera, Założę się, że wszyscy moi krewni powiedzą "Patrz, jak urosłeś, Battler-chan!” czy coś.`
+`...To jest rodzaj rzeczy która jest całkiem zawstydzająca, więc mam nadzieję, że mi odpuszczą.`
+`W każdym razie, moje imię, "Battler"...`
+`...cóż, to całkiem cholernie dziwne, nie sądzicie?`
+`Zastanawiałem się co moi rodzice sobie myśleli gdy nadali mi to idzie.`
+`{n}Nigdy wcześniej nie spotkałem kogoś kto mógłby to powiedzieć za pierwszym razem.`
+`Zazwyczaj mówią do mnie "{c:86EF9C:Sento‐kun}".`
+`{n}Szkoda, zamach i mach.`
+`Moje imię piszę się {p:0:右代宮 戦人}.`
+`{n}Możesz to odczytać?`
+` Pierwsza część to moje rodzinne imię, "Ushiromiya".`
+` Jak dotąd jest to dość wiarygodna japońska wymowa.`
+`Problem to moje własne imię.`
+`{n}.........{p:0:戦人} jest stworzone z znaków jako "walka" i "osoba", i jest wymawiane "Battler".`
+`Złożyć tego razem, i wychodzi ci Ushiromiya Battler.`
+`Całkiem szalone, prawda?`
+` To wystarczająco szalone że moi rodzice zdecydowali się tak mnie nazwać, ale jeszcze bardziej szalone jest to, że jakiś pracownik rządowy pozwolił im to zrobić oficjalnie.`
+` ...Obie grupy znajdują się na szczycie mojej listy muszę zabić.`
+`W każdym raziew, to jeden z moich kuzynów.`
+`Jego imię to {p:0:右代宮 譲治}, wymawiane jako Ushiromiya George.`
+`Jest pięć lat starszy ode mnie, więc prawdopodobnie kończy w tym roku 23 lata.`
+`{n}Odkąd Kuzyni Ushiromiya składają się z dwóch chłopców i trzech dziewczynek, a ja przez cały czas bawiłem się z George'em.`
+`I ponieważ zawsze myślałem o nim jako starszym bracie, wciąż nazywam go "Aniki" aż do dziś.`
+`"Whoo, Battler‐kun, zobacz jak urosłeś.`
+` Wiesz co oni mówią, "Zostaw chłopca na trzy dni a ciężko go rozpoznać"!"`
+`"Przypuszczam, że ma to we krwi.`
+` Rudolf też nie był zbyt wysoki aż do liceum.`
+` Być może ludzie stają się wyżsi, jeśli ich zryw wzrostu przychodzi późno."`
+`"Nieee, to nic specjalnego.`
+` Prawdziwy mężczyzna musi być twardy także z środku!"`
 `"Dokładnie!`
-` Battler‐kun here knows how it works!`
-` Real men win or lose based on what they've got on the inside!`
-` Can't ever forget to keep up your trainin' and discipline.`
-` You do that, wait verrry alertly for the perfect moment...and strike!"`
-`"Now, even I never imagined that I'd become the company president I am today, master of my own domain...`
-` Yep, to think I've come this far after starting out penniless and ruined...!"`
-`This portly and slightly chubby man...`
-`is George‐aniki's dad, Uncle Hideyoshi ({p:0:秀吉}).`
-`He's the husband of Dad's older sister.`
-`{n}In other words, we're not blood‐related.`
-`He's nice to children, sociable all the time, even quick to give out some spending money to us kids—simply put, he's an awesome uncle.`
-`He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.`
-`Apparently, leaving an impression is everything in the business world,`
-` so speaking in a different style than other people is an act that makes him stick out more.`
-`......However, I hear that he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese.`
-`...I don't really get it, but he's definitely an interesting person.`
-`"If only you weren't so quick to brag about your life's story.`
-` That's enough for now, I think.`
-` I'm sure Battler‐kun's getting tired of it.`
-` Aren't you?"`
-`"Nope, not at all, hihihi!`
-` Nothing wrong with that.`
-` I think it's pretty cool for a man to have some stories he can brag about.`
-` I don't have anything like that at all."`
-`"Oh, really?`
-` I'd imagine a man with your looks would leave girls crying left and right, so I have trouble believing that you have nothing at all to brag about..."`
-`"Nonononono!`
-` Y‐y‐`
-`you're joking, right?!`
-` Of course nothing weird like that's ever happened to me!`
-` In fact, if you know anyone, I'm all ears!"`
-`"Oh, I'm sure you do have some stories!`
-` ...*giggle* You must tell your aunt all about it later.`
-` After all, George never comes to me with anything of the sort.`
+` Battler‐kun wie jak to działa!`
+` Prawdziwi mężczyzni wygrywają albo przegrywają w oparciu o to, co mają w wewnątrz!`
+` Nie można nigdy zapomnieć o treningu i dyscyplinie.`
+` Robisz to, czekasz bardzo czujnie na idealny moment... i strike!"`
+`"Teraz, nawet nie wyobrażałem sobie, że zostanę prezesem firmy, którym jestem dzisiaj, panem własnej domeny...`
+` Ta, pomyśleć, że zaszedłem tak daleko po tym, jak zacząłem bez żadnego grosza i zniszczonym...!"`
+`Ten postawny i nieco pulchny mężczyzna...`
+`jest tatą George'a‐aniki, Wujek Hideyoshi ({p:0:秀吉}).`
+`Jest mężem taty starszej siostry.`
+`{n}Innymi słowy, nie jesteśżmy ze sobą zpokrewnieni.`
+`Jest miły dla dzieci, towarzyski przez cały czas, Nawet szybko wydał trochę pieniędzy dla nas, dzieci - po prostu, jest niesamowitym wujkiem.`
+`Mówi w dziwnym i bardzo zauważalnym dialekcie w stylu Kansai, pozornie stworzonym przez siebie, ale w rzeczywistości jest urodzonym mieszkańcem Kanto.`
+`Najwyraźniej pozostawienie po sobie wrażenia jest wszystkim w świecie biznesu,`
+` więc mówienie innym stylem niż inny is an act that makes him stick out more.`
+`......Jednakże, Słyszałem, że czuje się zakłopotany, gdy rozmawia w zasięgu słuchu prawdziwej osoby z Kansai, więc wrócił do standardowego Japońskiego.`
+`...Nie za bardzo tego łapię, ale jest zdecydowanie interesującą osobą.`
+`"Jeśli tylko nie byłbyś tak szybki żeby sprowadzić twoją historię życiową.`
+` To wystarczy na teraz, I think.`
+` Jestem pewna że Battler‐kun's staje się zmęczony od tego.`
+` Czyż nie?"`
+`"Nie, w ogóle, hihihi!`
+` Nic niema w tym złego.`
+` Myślę że to całkiem czadowe dla mężczyzny, który ma kilka historii, którymi może się pochwalić.`
+` Ja nie mam w ogóle czegoś takiego."`
+`"Oh, naprawdę?`
+` Wyobrażam sobie, że mężczyzna z twoim wyglądem sprawiłby, że dziewczyny płakałyby na lewo i prawo, więc trudno mi uwierzyć, że nie masz się czym chwalić..."`
+`"Nienienienienie!`
+` T‐t‐`
+`ty żartujesz, prawda?!`
+` Oczywiście, nic mi się takiego dziwnego nie przydażyło!`
+` W zasadzie, jeśli znasz kogoś takiego, zamieniam się w słuch!"`
+`"Oh, Jestem pewna ze masz jakieś historyjki!`
+` ...*chichot* Musisz to wszystko powiedzieć twojej cioteczce później.`
+` W końcu, George nigdy nie rozmawiał ze mną.`
 ` Heheheh..."`
-`This is my aunt and George‐aniki's mother, Auntie Eva ({p:0:絵羽}).`
-`She's my dad's older sister.`
-`{n}She and Uncle Hideyoshi are a pair of jokers, and they've always teased me back as far as I can remember.`
-`This sometimes made them a bit hard to get along with when I was small.`
-`{n}...That said, I'm currently in the process of discovering that they still are hard to get along with.`
-`Even so, George‐aniki's family is interesting and fun, and they seem to get along just fine.`
-`......Sheesh, that's pretty much the total opposite of my family.`
+`This moje ciocia i George'a‐aniki matka, Cioteczka Eva ({p:0:絵羽}).`
+`Jest mojego taty starszą siostrą.`
+`{n}Ona i Wujek Hideyoshi są parą żartownisiów, i zawsze mi dokuczali, odkąd pamiętam.`
+`To czasami sprawiało, że trudno było się z nimi dogadać, gdy byłem mały.`
+`{n}...To powiedziawszy, obecnie jestem w trakcie procesu i że nadal trudno się z nimi dogadać.`
+`Nawet jeśli, George‐anikirodzina jest interesująca i zabawna, i wydaje się, że dobrze się dogadują.`
+`......Ciii, to jest całkiem zupełnie inna strona mojej rodziny.`
 `"Battler‐kun,`
-` have you seen Rudolf‐san?"`
+` widziałeś gdzieś Rudolfa‐san?"`
 `"Huh?`
-` He headed off to the bathroom a while ago.`
-` Is he {i:still} not back?`
-` Heh, maybe the poor geezer dropped dead... {c:86EF9C:Namunamunamu}."`
-`"That's no way to talk about your own father.`
-` Still, this isn't the first time he's taken so long in the bathroom."`
-`"Yeah, the guy's always been that way.`
-` Does he really have to take a magazine with him every time he needs to take a dump?`
-` Oh, what on Earth might he be doing with those?!`
+` Poszedł do łazieńki jakiś czas temu.`
+` I on {i:wciąż} nie wrócił?`
+` Heh, może tam kopnął w kalendarz... {c:86EF9C:Namunamunamu}."`
+`"Nie w taki sposób powinno się mówić o swoim ojcu.`
+` Jednak, to nie pierwszy raz kiedy jest tak długo w łazience"`
+`"Ta, ten facet zawsze taki był.`
+` Czy onnaprawdę musi zabierać ze sobą tak wielki magazynek za każdym razem, gdy chce się wysrać?`
+` Oh, co na Boga co on może robić z tymi?!`
 ` Ihihi!"`
-`"Oh, you don't need to worry about that at all.`
-` As long as we're together, I won't be letting him do that on his own."`
+`"Oh, nie musisz nie martwić o to w ogóle.`
+` Tak długo jak jesteśmy razem, Nie pozwolę mu robić tego na własną rękę."`
 `"Hihihi!`
-` Oooh, I'll have to get the juicy details later!`
-` Sounds like Dad's got his balls in an iron grip."`
-`"You know exactly what would happen with that man if I didn't keep a tight grip, don't you?"`
-`"Oh, no kidding.`
-` You're the only one capable of reigning in that old bastard.`
-` As his son, I'm more than happy to let you take over."`
-`"Yes, leave it all to me.`
-` After all, that's my specialty."`
-`This woman is my dad's wife.`
-`Her name is Ushiromiya Kyrie ({p:0:霧江}).`
-`As you can probably tell from our conversation, she's not my real mother.`
-`{n}She's basically my stepmother.`
-`My real mom died six years ago.`
-`{n}Kyrie‐san is the woman Dad married afterwards.`
-`I mean, I'm not a kid anymore.`
-`{n}It's way too late now for me to start calling his second wife "Mom".`
-`And I doubt she feels like using the word "son" on this massive kid who's no relation to her at all.`
-`We aren't little kids.`
-`{n}We know there's nothing to be gained by fighting.`
-`So, we decided that we wouldn't force ourselves to pretend that we were family.`
-`{n}I've decided to act a bit more frank with her, as though she's a friendly neighbor instead.`
-`It's much easier to just keep a little distance, instead of forcing ourselves to act all close and making each other uncomfortable.`
-`Kyrie‐san has been very open about all this, and thanks to that, we've been able to get along pretty well.`
-`As we were capitalizing on Dad being away in the bathroom to badmouth him,`
-` the man himself came back, wiping his hands with a handkerchief.`
+` Oooh, później będę musiał poznać więcej szczegółów!`
+` Wygląda na to, że tata trzyma jego jaja w żelaznym uścisku."`
+`"Wiesz dokładnie co się stanie z tym mężczyzną gdybym nie trzymała się mocno, prawda?"`
+`"Oh, nie żartuję.`
+` Tylko ty jesteś w stanie zapanować nad tym starym draniem.`
+` Jako jego syn, Z przyjemnością pozwolę ci przejąć stery."`
+`"Tak, zostaw to wszystko mnie.`
+` W końcu, to moja specjalność."`
+`Ta kobieta to jest żona moje taty.`
+`Jej imię to Ushiromiya Kyrie ({p:0:霧江}).`
+`Jak możecie prawdopodobnie wywnioskować po naszej konwersacji, że ona nie jest moją prawdziwą matką.`
+`{n}Jest rzecz biorąc moją macochą.`
+`Moja prawdziwa mama zmarła sześć lat temu.`
+`{n}Kyrie-san to kobieta, którą tata poślubił po stracie jego pierwszej żony.`
+`Mam na myśli , że nie jestem już dzieckiem.`
+`{n}Jest już o wiele za późno, abym zaczął nazywać jego drugą żonę "Mamą".`
+`I wątpię, by miała ochotę używać słowa „syn” w stosunku do tego masywnego dzieciaka, który w ogóle nie jest z nią spokrewniony.`
+`Nie jesteśmy małymi dziećmi.`
+`{n}Wiemy, że walka nic nie da.`
+`Więc, zdecydowaliśmy, że nie będziemy zmuszać się do udawania, że jesteśmy rodziną.`
+`{n}Zdecydowałem żeby być z nią bardziej szczerym, jakby była przyjazną sąsiadką.`
+`Jest dużo łatwiej żeby zachować mały dystans, zamiast zmuszać się do bycia blisko in czuć się niekomfortowo.`
+`Kyrie‐san była na to wszystko bardzo otwarta, i dzięki temu, udało nam się całkiem dobrze dogadać.`
+`Wykorzystywaliśmy nieobecność taty w łazience, żeby go obgadywać,`
+` mężczyzna wrócił, wycierając ręce w chusteczkę.`
 `"Hmm?`
 ` Battler."`
-`"Hey, what's up, Dad?"`
-`"...Owowowowww!`
-` Don't pinch my ear, gaah!"`
-`"So, you've been talking trash about me with Mom again, haven't you?`
-` What makes it so hard to show a little respect for your father, hmm?"`
-`"Owowow, owowowowow!`
-` Dammit, that hurts, you old bastard!`
+`"Hey, co tam, Tato?"`
+`"...Ałałałaaaaa!`
+` Nie szczyp w moje ucho, gaah!"`
+`"Więc, znowu obgadywałeś mnie z mamą, prawda?`
+` Dlaczego sprawia to taką trudność żeby okazać trochę szacunku własnemu ojcu, hmm?"`
+`"Ałałała, ałałałałała!`
+` Cholera, to boli, ty stary draniu!`
 ` Stretch my ear all you want, I'm still not gonna be able to fly—owwwww!!"`
-`"C'mon now.`
-` Upwards,`
-` upwards,`
-` sideways,`
-` sideways,`
-` round in a circle,`
-` back the other way,`
-` multiplier maxed out,`
-` with an extra x2 on top!`
-` Now say "Father, please forgive me for being so rude"."`
-`"Like hell I will, go find yourself some members‐only store if you want it that much!`
-` Gyaah, let goooo!!"`
-`......This old bastard is my dad.`
-`{n}I think I'm pretty tall, but Dad's about the same height.`
-`It's probably no surprise that Auntie Eva started talking about Dad's blood when she saw my height.`
-`By the way, my height isn't the only thing I got from him.`
+`"No dalej.`
+` Góra,`
+` góra,`
+` dół,`
+` dół,`
+` kółeczko w jedną stronę,`
+` i w drugą stronę,`
+` mnożnik maksymalny,`
+` z dodatkowym x2 na szczycie!`
+` A teraz powiedz "Ojcze, proszę wybacz mi że byłem tak nieuprzejmy."`
+`"Jak cholera bym miał to zrobić, znajdź sobie jakiś sklep tylko dla członków jeśli tak bardzo tego chcesz!`
+` Gyaah, puszczaj!!"`
+`......Ten stary drań to mój ojczulek.`
+`{n}Myślę że jestem całkiem wysoki, ale tata jest tego samego wzrostu co ja.`
+`Nie jest chyba zaskoczeniem, że ciocia Eva zaczęła mówić o krwi taty, gdy zobaczyła mój wzrost.`
+`Po za tym, mój wzrost nie jest jedyną rzeczą którą po niego mam.`
 `{n}It seems having weird names runs in the family.`
-`Dad's full name is written {p:0:右代宮 留弗夫}.`
-`......Can you read it?`
-` Not many could, I'll tell you that.`
-`{n}That mess of characters is pronounced "Rudolf".`
+`Taty pełne imię piszę się {p:0:右代宮 留弗夫}.`
+`......Możesz to przeczytać?`
+` Nie wiele potrafi, Powiem ci to.`
+`{n}Ta mieszanina znaków jest wymawiana jako "Rudolf".`
 `Haha...he must hate Grandfather for giving him that name.`
 `Still, that's no reason to pass that weird naming tradition onto me.`
 `As the old bastard twisted my ear all over the place, Auntie Eva snuck up behind him and grabbed his ear.`
@@ -450,12 +450,12 @@
 `"Long time no seee!`
 ` Uu!"`
 `"Maria!`
-` Shouldn't that be "It's good to see you again"?`
-` Greet your uncle properly."`
+` Czy nie powinno to być "Dobrze cię znów widzieć"?`
+` Przywitaj się odpowiednio ze swoim wujkiem."`
 `"Uu.`
-` It's...good to see you again..."`
-`"There you go!`
-` Well said!`
+` Dobrze...cię znów widzieć..."`
+`"Proszę bardzo!`
+` Dobrze powiedziane!`
 ` How about some candy as a reward?!`
 ` ......Oh, huh?`
 ` Where'd I put 'em..."`
@@ -465,10 +465,10 @@
 `"...And...`
 `...oh my, Battler‐kun?!`
 ` Look how big you've gotten...!"`
-`"Ah, come on, hahaha...`
+`"Ah, daj spokój, hahaha...`
 ` It's embarrassing hearing that from every person I meet...!"`
-`"Hey, Rosa.`
-` You're late.`
+`"Hej, Rosa.`
+` Spóźniłaś się.`
 ` If the plane was on time, you'd barely have made it..."`
 `"I'm sorry.`
 ` We had some trouble making our train connection.`
@@ -490,11 +490,11 @@
 `"Uu!"`
 `"I think she's grown a lot since last year.`
 ` Let's see, she turned nine years old this year, didn't she?"`
-`"Nine years old.`
+`"Dziewięć lat.`
 ` Uu."`
-`"That's right, you're nine years old now.`
+`"To racja, masz już dziewięć lat.`
 ` Glad to see you're doing well too, Maria‐chan!"`
-`"Up you...`
+`"W górę...`
 `...nng...`
 ` I guess you've gotten a bit too heavy to play airplane with..."`
 `"George‐aniki, what a rude thing to say to a lady.`
@@ -512,22 +512,22 @@
 ` The last time she met Battler, she was only three.`
 ` You don't keep memories at that age."`
 `She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
-`So, it's no surprise that this nine‐year‐old girl doesn't have any memories of me.`
-`Even I can only just barely remember her being a three‐year‐old crybaby.`
+`Więc, to żadna niespodzianka ta dziewięcio-letnia dziewczynka nie ma żadnych wspomnień ze mną.`
+`Nawet ja ją ledwo pamiętam jako trzyletnią beksę.`
 `"Maria.`
-` This is Battler onii‐chan.`
-` Uncle Rudolf's son.`
-` ...Understand?"`
-`"............Uncle's son is...`
-` Uncle's the son...`
+` To Battler onii‐chan.`
+` Syn wujka Rudolfa.`
+` ...Rozumiesz?"`
+`"............Syn wujka jest...`
+` Wujek jest synem...`
 ` ............??`
 ` ......Uuuu!!"`
-`That "uu" was probably the sound of her brain breaking, unable to understand the complicated explanation.`
+`To "uu" były prawdopodobnie odgłosem jej trybików w głowie, niezdolnego do zrozumienia skomplikowanego wyjaśnienia.`
 `I guess it was a bit too confusing for her.`
 `"Maria‐chan.`
-` This is Battler‐kun.`
-` He's your cousin, like me."`
-`"......Like George onii‐chan?`
+` To jest Battler‐kun.`
+` Jest twoim kuzynem, jak ja."`
+`"......Jak George onii‐chan?`
 ` ...........................Battler?`
 ` Cousin?`
 ` ......Uu."`
@@ -558,16 +558,16 @@
 ` She's just the way I remembered her being six years ago.`
 `Seems that people just don't change that much after all.`
 `{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
-`Her name is written {p:0:真里亞}.`
-`{n}...That one's not so difficult to read.`
-` Of course, it says "Maria".`
-`{n}The third character looks like a cross, which is pretty cool.`
+`Jej imię się piszę {p:0:真里亞}.`
+`{n}...To nie jest zbyt trudno odczytać.`
+` Oczywiście, it says "Maria".`
+`{n}The third character looks like a cross, co jest całkiem czadowe.`
 `Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
-`{n}On the inside, she's just a sweet, normal girl.`
-`Then there's Maria's mother, Auntie Rosa.`
-`{n}She's my dad's younger sister.`
-`Rosa is written {p:0:楼座}.`
-` ...Here's a name that's totally not Japanese.`
+`{n}W wewnątrz, jest poprostu słodką, normalną dziewczynką.`
+`Wtedy jest matka Marii, Cioteczka Rosa.`
+`{n}Jest młodszą siostrą mojego taty.`
+`Rosa się piszę {p:0:楼座}.`
+` ...Jej imię totalnie nie jest Japońskie.`
 `Sorry to say it, but her name's almost as ridiculous as Dad's...`
 ` I've got to respect her for not ending up as screwed up as he is.`
 `...When I think about it, all the names in my family sound foreign.`
@@ -587,8 +587,8 @@
 ` Boarding will now commence for flight 201 to Niijima.`
 ` We ask that the passengers please form two lines in front of the counter, behind the white line."`
 `"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
-`"Oh no...!`
-` Maria, come on!"`
+`"O boże...!`
+` Maria, chodź prędko!"`
 `"Uu!"`
 `We had to go through a metal detector before going out on the runway.`
 `Our small plane wasn't as massive as an international flight, but it was still a plane.`
@@ -615,9 +615,9 @@
 `"...Hope I get a window seat!"`
 `"Hahaha, don't worry.`
 ` There aren't any other kinds of seats."`
-`According to George‐aniki, there are apparently only two lines of seats.`
-`Yep, it's a small plane alright...`
-` .........It isn't really going to shake...is it...?`
+`Według George'a‐aniki, there are apparently only two lines of seats.`
+`Ta, to już jest mały samolot...`
+` .........To naprawdę nie będzie trząść...co nie...?`
 `"Ushiromiya George‐sama."`
 `"Right here.`
 ` Don't worry, Battler‐kun.`
@@ -626,26 +626,26 @@
 `"A‐Aniki, how much is "not too much"?!`
 ` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
 ` We all get our own parachutes in our seats, don't we?`
-` Wait, we don't?!"`
+` Czekaj, nie mamy?!"`
 `"Ushiromiya Rudolf‐sama."`
-`"Come on, Battler, quit being a wuss and get in."`
-`"Ow! Dad!`
-` Don't push me!`
-` We don't get parachutes!"`
+`"No dalej, Battler, przestań srać w gacie i rusz się."`
+`"Ął! Tato!`
+` Nie popychaj mnie!`
+` Nie mamy spadachronów!"`
 `"Ushiromiya Kyrie‐sama."`
-`"Alright, stop fooling around.`
-` Let's move along."`
+`"Alright, dość tych wygłupów.`
+` Chodźmy."`
 `"Ow! Kyrie!`
-` Don't push me!`
-` This blockhead isn't moving forward!"`
+` Nie popychaj mnie!`
+` To ten łobuz nie chce się ruszyć!"`
 `"Ushiromiya Maria‐sama."`
 `"Uu!`
-` Forward, forward!"`
+` Naprzód, naprzód!"`
 `"Ushiromiya Rosa‐sama."`
 `"Maria!`
-` Keep quiet..."`
-`"This is your pilot, Kawabata.`
-` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
+` Cicho bądź..."`
+`"Tu wasz pilot, Kawabata.`
+` Chcielibyśmy wam podziękować for taking New Tokyo Aviation's flight 201 today.`
 ` We estimate that the flight to Niijima Airport will take about twenty minutes."`
 `"We are receiving reports of atmospheric turbulence.`
 ` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
@@ -653,5 +653,5 @@
 ` In a jumbo jet, they let you undo them after takeoff!`
 ` So it's gonna shake so much we can't take them off?!"`
 `"Dammit, you tricked me, it is going to shake after all!`
-` Where are the parachutes?!`
-` I knew I should've taken the boooooaaaaat!!"`
+` Gdzie są spadochrony?!`
+` Wiedziałem że powinienem wziąść łóóóóóóóóóóódźźźźź!!"`
