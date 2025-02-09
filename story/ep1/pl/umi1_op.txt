@@ -1,25 +1,25 @@
 `"............Znowu...`
-`been indulging in alcohol again, haven't you?"`
-`The old physician let out a sigh as he removed the stethoscope.`
-`Two elderly men could be seen in the dimly lit study, which was filled with dust and a sickly sweet stench.`
-`In the corner of this room, which was much larger than what most people would call a study,`
-` there was an expensive‐looking bed, a man undergoing a medical examination, and the physician conducting it.`
+`oddałeś się alkoholowi, nieprawdzaż?"`
+`Stary lekarz westchnął odkładając stetoskop.`
+`W słabo oświetlonym gabinecie, który był wypełniony kurzem i słodkawym odorem, widać było dwóch starszych mężczyzn.`
+`W kącie tego pokoju, który był znacznie większy niż to, co większość ludzi nazwałaby gabinetem,`
+` było drogo wyglądające łóżko, mężczyzna pod wpływem badania lekarskiego, i lekarz przeprowadzający.`
 `{n}There was also what appeared to be a servant watching over the whole scene.`
 `"The bottle is my friend.`
 ` It is no less of a friend than you, and it has stood by my side even longer than you have."`
 `The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
 `"............Kinzo‐{c:86EF9C:san}.`
 ` ...Your body only appears to be well thanks to the effects of the medicine.`
-` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
-` ...Trust my judgment.`
-` Temper your drinking."`
-`"I thank you, though only for the sentiment,`
-` my friend.`
+` Jednakże, jeśli nadal będziesz pić tak mocne trunki, leczenie stanie się.`
+` ...Zaufaj mojemu osądowi.`
+` Odpuśc sobie picie."`
+`"Dziękuję ci, choć tylko ze względu na sentyment,`
+` mój przyjacielu.`
 ` .........Genji.`
-` Another glass.`
-` Water it down slightly.`
-` That way Nanjo can save face."`
-`".........Are you quite sure?"`
+` Kolejna szklanka.`
+` Ale lekko to rozcieńcz.`
+` W ten sposób Nanjo zachowa twarz."`
+`".........Jesteś pewien?"`
 `After eyeing both the master who demanded the alcohol and his doctor who forbade it,`
 ` Genji, the old butler, silently gave a slight nod and carried out his master's orders faithfully.`
 `Nanjo, the man's personal doctor, let out a deep sigh once again as he watched the butler busy himself alongside the liquor cabinet...`
@@ -30,11 +30,11 @@
 ` You are my close friend of many years.`
 ` I am deeply grateful for all that you have done to keep me alive this long."`
 `"I have done nothing.`
-` ......After all, you never listen to my advice as your physician."`
+` ......W końcu, you never listen to my advice as your physician."`
 `"Hahahaha...`
 ` And you never listen when I warn you about a mistaken chess move you're about to make.`
 ` It seems we are even."`
-`"......My lord."`
+`"......Mój panie."`
 `"Thank you.`
 ` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
 `With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
@@ -127,8 +127,8 @@
 ` I don't want to die alone like this!!`
 ` I cannot let myself die until I've seen your smile just one more time!!"`
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
-` I offer up this life of mine, I offer it up to you!!`
-` I'm begging you, {f:5:Beatriceeeeee}!!!"`
+` Oferuję ci moje życie, Oferuję to do ciebie!!`
+` Błagam cię, {f:5:Beatriceeeeee}!!!"`
 `"Whoa...`
 ` Things sure move with the times...`
 ` I can't believe we'll be able to make the trip in just twenty minutes..."`
