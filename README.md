@@ -22,7 +22,7 @@ Tłumaczenie jest w toku. Pracujemy nad pierwszym Epizodem 1, i będziemy kontyn
 | Grafiki  |             |         |                  | 0% |
 
 Legenda:
-- 🟩 Ukończone
+- 🟩 Ukończony
 - 🟥 Nie rozpoczęty/W toku
 
 </details>
