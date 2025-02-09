@@ -1,0 +1,70 @@
+name: Build
+
+on: 
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  build:
+    name: Build scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Script Check
+        run: |
+          php update-manager/script-check.php check pl || exit 1
+
+      - name: Compile
+        run: |
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
+          TODAY=$(date +"%d.%m.%y")
+          if git show-ref --tags z${BUILD} --quiet; then
+            echo "TAG=${BUILD}.1" >> "$GITHUB_ENV"
+          else
+            echo "TAG=${BUILD}" >> "$GITHUB_ENV"
+          fi
+          echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
+          echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
+          echo "Build number ${BUILD}"
+          mkdir -p ciout
+          php update-manager/update-manager.php dscript "ciout/pl.txt" . pl ${BUILD} || exit 1
+          php update-manager/update-manager.php script ciout/pl.txt "ciout/pl.file" 8 || exit 1
+          cp misc/game.hash misc/locale_pl_game.hash
+          php update-manager/update-manager.php genhash misc/locale_pl_game.hash "extra/pl/"
+          cp misc/game.hash ciout
+          cp misc/locale_pl_game.hash ciout
+          cp misc/default.cfg ciout
+          cp misc/pl.cfg ciout
+          cd ciout
+          zip -qry umineko-pl-scripts_r${BUILD}.zip pl.file locale_pl_game.hash game.hash default.cfg pl.cfg || exit 1
+          cd ..
+          git show -s --format="%s" > release_notes.md
+          echo "Refer to https://forum.umineko-project.org for more details." >> release_notes.md
+
+      - name: Release
+        if: github.repository_owner == 'MichaelRedowski'
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: z${{ env.TAG }}
+          release_name: Umineko PL Scripts r${{ env.BUILD }}
+          body_path: release_notes.md
+          draft: false
+          prerelease: false
+
+      - name: Upload Main
+        if: github.repository_owner == 'MichaelRedowski'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./ciout/umineko-pl-scripts_r${{ env.BUILD }}.zip
+          asset_name: umineko-pl-scripts.zip
+          asset_content_type: application/zip
