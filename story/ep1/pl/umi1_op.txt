@@ -102,26 +102,26 @@
 `".........Dobrze byłoby to zapisać.`
 ` Oczywiście najlepiej byłoby, gdybyś mógł go ukończyć, zanim nadejdzie twój czas.`
 ` Jednakże, nawet jeśli stanie się najgorsze, ci którzy przyjdą po tobie, doprowadzą go do końca..`
-` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
-` ......That is the purpose of a will."`
-`When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
-`"That is no good, no good, no good!!"`
-`"It must be done while I still live! At the moment of my death, my soul will be devoured by the demons of the contract and wiped out of existence!`
-` For me, there will be no peace or another world after death!`
-` That's why everything must be done before I go!!`
-` That's why a will has no meaning for me!!"`
-`"And if I had the time to write such a thing...`
-` ...If I had such time to spare!!`
-` ...I'd want to see it.`
+` Musisz zostawić za sobą swoje żażalenia, aby można było je rozwiązać, nawet jeśli sam nie jesteś w stanie tego zrobić.`
+` ......Taki jest cel testamentu."`
+`Kiedy Nanjo próbował poklepać ramię Kinzo, umierający mężczyzna wpadł w nagłą furię i odepchnął rękę Nanjo.`
+`"To jest bezużyteczne, bezużyteczne, bezużyteczne!!"`
+`"Musi być to skończone kiedy wciąż żyję! W momencie mojej śmierci, moja dusza zostanie pożarta przez demony kontraktu i wymazana z istnienia.!`
+` Dla mnie, nie ma czegoś takiuego jak pokoju albo innego świata po śmierci!`
+` Dlatego wszystko musi być zrobione zanim odejdę!!`
+` Dlatego testament nie ma dla mnie żadnego znaczenia!!"`
+`"I gdybym miał czas na napisanie czegoś takiego...`
+` ...Gdybym miał tyle czasu do stracenia!!`
+` ...chcę to zobaczyć.`
 ` I'd want to see it one more time!`
-` I want to see {f:5:Beatrice}'s smiling face one last time!!"`
+` Chcę zobaczyć uśmiechającą się twarz {f:5:Beatrice}'s ostatni raz!!"`
 `"Oh, {f:5:Beatrice}, why do you resist me so?!`
-` I would return everything you have given me right this very moment—I am prepared to lose everything!!`
-` So please, show me your smile just one more time..."`
-`"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that's the kind of woman you are!`
-` I beg of you, show yourself to me!!`
-` You're here, aren't you?!`
-` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
+` Zwróciłbym wszystko, co mi dałaś w tej chwili - jestem gotów stracić wszystko!!`
+` Więc proszę, pokaż mi swój uśmieszek raz jeszcze..."`
+`"{f:5:Beatrice}, błagam cię—musisz być w stanie usłyszeć to ostatnie błaganie - taką jesteś kobietą!`
+` Błagam cię, pokaż się mnie!!`
+` Jesteś tu, aren't you?!`
+` Stoisz tu niewidzialnie, słuchając każde słowo które powiem, i nawet teraz kpisz sobie ze mnie gdzieś w tym pokoju, prawda?!"`
 `"Proszę, pokaż się przede mną choć jeszcze jeden raz i uśmiechnij się!!`
 ` Możesz mnie zbesztać, a nawet odebrać mi życie własnymi rękami, jeśli chcesz!!!`
 ` Nie chcę umrzeć sam w taki sposób!!`
@@ -335,13 +335,13 @@
 ` Who are you calling "unsold"?"`
 `After taking two or three steps back,`
 ` Ciocia Eva wyprowadziła jedno ze swoich pięknych wysokich kopnięć okrężnych, który zatrzymał się tuż centymetr od nosa Ojca.`
-`After starting out with Tai‐chi‐chuan for her figure, Auntie Eva rozwinęła wówczas zainteresowanie nad Chińskimi sztukami walki.`
-` After that, she went through karate, taekwondo, capoeira, ...and what is it she's learning now, again?`
-`...Well, anyway, they say a woman's weapons are in her lower body, and that's literally true for Auntie Eva.`
+`Po rozpoczęciu z Tai-chi-chuan dla jej figury, Auntie Eva rozwinęła wówczas zainteresowanie nad Chińskimi sztukami walki.`
+` Po tym, przebrnęła przez karate, taekwondo, capoeira, ...i czego się teraz uczy, znowu?`
+`...Cóż, w każdym razie, Mówi się, że broń kobiety znajduje się w jej dolnej części ciała i jest to dosłownie prawdą w przypadku cioteczki Evy.`
 `"Rudo~lf?`
-` Did you know that a single direct blow to the side of the head like that would knock you unconscious?`
-` Not so long ago, I accidentally connected in a practice match, and my opponent was out cold."`
-`"...Sheesh, what a pain.`
+` Czy wiesz że bezpośredni cios w bok głowy, pozbawiłby cię przytomności?`
+` Jeszcze nie dawno, przypadkowo wzięłam udział w meczu treningowym, a mój przeciwnik stracił przytomność."`
+`"...Ciii, co za ból.`
 ` Guess I have to apologize for her tendency to lash out with her feet, too."`
 `Dad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.`
 `"Wahahaha, never had a brother or sister myself.`
@@ -619,17 +619,17 @@
 `Ta, to już jest mały samolot...`
 ` .........To naprawdę nie będzie trząść...co nie...?`
 `"Ushiromiya George‐sama."`
-`"Right here.`
-` Don't worry, Battler‐kun.`
-` It won't shake too much."`
+`"Tutaj.`
+` Nie martw się, Battler‐kun.`
+` Nie będzie trząść zbyt mocno."`
 `"Ushiromiya Battler‐sama."`
-`"A‐Aniki, how much is "not too much"?!`
+`"A‐Aniki, jak bardzo znaczy "nie zbyt mocno"?!`
 ` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
-` We all get our own parachutes in our seats, don't we?`
+` Wszyscy mamy własne spadochrony w naszych fotelach, prawda?`
 ` Czekaj, nie mamy?!"`
 `"Ushiromiya Rudolf‐sama."`
 `"No dalej, Battler, przestań srać w gacie i rusz się."`
-`"Ął! Tato!`
+`"Ał! Tato!`
 ` Nie popychaj mnie!`
 ` Nie mamy spadachronów!"`
 `"Ushiromiya Kyrie‐sama."`
@@ -645,13 +645,13 @@
 `"Maria!`
 ` Cicho bądź..."`
 `"Tu wasz pilot, Kawabata.`
-` Chcielibyśmy wam podziękować for taking New Tokyo Aviation's flight 201 today.`
-` We estimate that the flight to Niijima Airport will take about twenty minutes."`
-`"We are receiving reports of atmospheric turbulence.`
-` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
-`"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
-` In a jumbo jet, they let you undo them after takeoff!`
-` So it's gonna shake so much we can't take them off?!"`
-`"Dammit, you tricked me, it is going to shake after all!`
+` Chcielibyśmy wam podziękować za udział w dzisiejszym locie New Tokyo Aviation 201.`
+` Szacujemy że lot na Lotnisko Niijima zajmie około dwudziestu minut."`
+`"Otrzymujemy doniesienia o turbulencjach atmosferycznych.`
+` Może wystąpić drżenie samolotu, dlatego prosimy o nie odpinanie pasów bezpieczeństwa po starcie."`
+`"A‐Aniki, czy ten koleś powiedział że musimy zapiąć pasy?!`
+` W jumbo jecie, pozwalają je odpiąć po starcie!`
+` Więc będzie trząść tak bardzo że nie będziemy mogli ich odpiąć?!"`
+`"Cholera, oszukaliście mnie, będzie i tak trząść!`
 ` Gdzie są spadochrony?!`
 ` Wiedziałem że powinienem wziąść łóóóóóóóóóóódźźźźź!!"`
