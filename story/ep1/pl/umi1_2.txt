@@ -1,16 +1,16 @@
-`The boat gave a big shudder.`
-`Seems we've docked at the harbor.`
-`{n}The boat driver came out and jumped to the pier with the mooring rope.`
-`A large man in a tuxedo was waiting there for us with a warm, smiling face.`
-`......I didn't know him, but judging by his clothes, I guessed that he was a servant of the Ushiromiya head house.`
-`"Welcome home, Milady.`
-` You were quite late, and I began to worry."`
-`"Ah, thanks for caring!`
-` The boat had Battler scared shitless.`
-` So we had to slow down for him.`
-` Seriously, what a pain in the ass!"`
-`"S‐shut up... I'll remember this when the shoe's on the other foot someday... ugghh."`
-`At this rate, the word'll spread around the entire family, and I'll become the big conversation piece during dinner.`
+`Łódź zadrżała.`
+`Wygląda na to że zakotwiczyliśmy.`
+`{n}Kierowca łodzi wyszedł i skoczył na pomost z liną cumowniczą.`
+`Duży mężczyzna w smokingu czekał tam na nas z ciepłą, uśmiechniętą buzią.`
+`......Nie znałem go, ale sądząc po jego ubiorze, domyśliłem się, że był sługą rodziny Ushiromiya.`
+`"Witaj w domu, Panienko.`
+` Byliście całkiem późno, i zaczynałem się martwić."`
+`"Ah, dziękuję za troskę!`
+` Łódź sprawiła, że Battler był gównianie przerażony.`
+` Więc zwolniliśmy dla niego.`
+` Serio, co za ból w zadzie!"`
+`"Z-zamknij się... Będę o tym pamiętał, gdy pewnego dnia sytuacja się odwróci... ugghh."`
+`W tym stanie, the word'll spread around the entire family, and I'll become the big conversation piece during dinner.`
 `Even without this, everyone'd be talking about me because of that six‐year gap...but now I've provided them with an even juicier topic...!`
 `Dammit, why does the Ushiromiya main family have to live on this isolated island!`
 `In the meantime, the boat had finished its mooring.`
@@ -887,5 +887,5 @@
 `Why could he not have realized that his trifling whim would pass such an inferiority complex onto Madam...`
 `......Naturally, deep inside, even Madam fully acknowledges that there's no reason to treat those two so harshly...`
 `...However, the heart has reasons that reason knows not...`
-`Ahh, how heartrending...`
-`I cannot do anything but watch over them from the shadows......`
+`Ahh, jak dojmujące...`
+`Nie mogę zrobić nic lecz obserwować ich z ukrycia......`
