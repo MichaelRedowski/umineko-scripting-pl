@@ -474,7 +474,7 @@
 ` Ja wciąż—"`
 `"To wystarczy.`
 ` Pracowałeś ciężko."`
-`She didn't know where they were, but they had to be somewhere on this island.`
+`Nie wiedziała gdzie oni są, ale musieli gdzieś być na tej wyspie.`
 `{n}They hadn't put anything in their mouths since last night, so their stomachs must be growling about now.`
 `They would surely saunter in any time now.`
 `...Natsuhi was already dumbfounded, and she had begun to think that there was no urgent need to find them right then.`
@@ -530,9 +530,9 @@
 ` You two sure are fast...!`
 ` I thought my heart was gonna explode..."`
 `"I guess they did build a storehouse over here.`
-` .........bu—`
-`wha‐`
-`......what is that...?"`
+` .........al—`
+`c‐`
+`......co to jest...?"`
 `When Eva looked at where Kanon was pointing, she was at a loss for words.`
 `{n}Noticing this, Hideyoshi also followed Kanon's finger and was likewise too shocked to speak.`
 `The entrance to the storehouse was a kind of shutter.`
