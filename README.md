@@ -2,7 +2,8 @@
 To tłumaczenie jest Polskie Tłumaczenie do Umineko Project (Projekt Umineko)
 ## Status
 Ogółem - Tłumaczenie jest w toku. Pracujemy nad pierwszym Epizodem 1, i będziemy kontynuować ten projekt aż do skutku.
-## 09.02.2025r. - Tłumaczenie rozpoczęte!
+
+09.02.2025r. - Tłumaczenie rozpoczęte!
 ## Progress
 
 <details>
