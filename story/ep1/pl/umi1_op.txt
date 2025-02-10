@@ -55,19 +55,19 @@
 `{n}Czarna wieża i goniec wcinały się głęboko w linie wroga.`
 `Biały król był już w roszadzie, więc nawet amator mógł dostrzec, że mecz dobiegnie końca w niedługim czasie.`
 `Za każdym razem, gdy Nanjo przychodził na badanie lekarskie, obaj wykonywali kilka ruchów.`
-`Nanjo stał z pewnością że Kinzo would most likely fall into his eternal sleep before this game could be concluded.`
-`...These were less the words of a physician than they were the words of an old friend.`
+`Nanjo stał z pewnością że Kinzo najprawdopodobniej zapadłby w wieczny sen przed zakończeniem tego pojedynku.`
+`...Nie były to słowa lekarza, lecz starego przyjaciela.`
 `"............Gdybyś był normalnym pacjentem,`
-` I would recommend that you write a will at this point."`
-`"......And what is a will, Nanjo?`
-` Handwritten instructions to the vultures on how to devour and scatter my corpse?"`
-`"No, not at all.`
-` ......As the word suggests, it is a way for you to record your will for later generations.`
-` It is far more than just a means to divide up your inheritance."`
+` Zaproponowałbym ci w tym momencie napisanie testamentu."`
+`"......A czym jest testament, Nanjo?`
+` Odręczne instrukcje dla drapieżników, jak pożreć i rozrzucić moje zwłoki?"`
+`"Nie, w ogóle.`
+` ......Jak słowo wskazuje, jest to sposób na zapisanie swojej woli dla późniejszych pokoleń.`
+` To znacznie więcej niż tylko sposób na podział spadku."`
 `"Hoh.`
-` ......And apart from the division of the inheritance, what might I write of?"`
-`"............Oh, there's your regrets...`
-`and matters you have left unfinished.`
+` ......A pomijając podział spadku, o czym mógłbym napisać?"`
+`"............Oh, twoje zażalenia...`
+`i sprawy które masz niedokończone.`
 ` Rzeczy które chcesz żeby zostały przekazane...`
 `...i rzeczy które chcesz opowiedzieć.`
 ` ......Cokolwiek zechcesz."`
@@ -82,26 +82,26 @@
 ` Zaakceptuję ten los śmierci bez śladu strachu!!"`
 `"......Kinzo‐san."`
 `"Stworzyłem wszystko.`
-` Moją fortune!`
+` Moją fortunę!`
 ` Mój prestiż!`
 ` Wszystko!!`
 ` Zostały one zbudowane przeze mnie i zostaną utracone wraz ze mną.`
 ` Nie ma nic co pragnę, by przekazać!!"`
 `"Nic!!`
-` After I'm gone, I care not if it all goes to waste!`
-` I desire no tomb, no coffin!!`
-` Those were the terms of the contract I made with the witch!`
-` When I die, everything will be lost!`
+` Po tym jak zniknę, nie obchodzi mnie, czy wszystko pójdzie na marne!`
+` Nie chcę grobu ani trumny!!`
+` Takie były warunki umowy, którą zawarłem z wiedźmą!`
+` Kiedy umrę, wszystko będzie stracone!`
 ` That has been part of the promise since the beginning, and that's why nothing will be left behind.`
-` There is nothing I can leave behind!!"`
-`After reaching a furious crescendo, Kinzo suddenly slumped over.`
-`...His expression was limp and feeble, as though an evil spirit had possessed him and then left.`
+` Nie ma nic co mogę przekazać!!"`
+`Po osiągnięciu wściekłego crescendo, Kinzo nagle upadł na ziemię.`
+`...Jego wyraz twarzy był wiotki i słaby, jakby zły duch opętał go, a następnie opuścił.`
 `"..................`
-` However, I do have one regret.`
-` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
-`".........You would do well to write it down.`
-` Of course, it would be best if you could finish it before your time comes.`
-` However, even if the worst happens, those who come after you will carry it to completion.`
+` Jednakże, mam jedno żażalenie.`
+` Nie ma nic co mogę przekazać, ale jest jedna rzecz którą nie mogę zrobić niedokończonej..."`
+`".........Dobrze byłoby to zapisać.`
+` Oczywiście najlepiej byłoby, gdybyś mógł go ukończyć, zanim nadejdzie twój czas.`
+` Jednakże, nawet jeśli stanie się najgorsze, ci którzy przyjdą po tobie, doprowadzą go do końca..`
 ` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
 ` ......That is the purpose of a will."`
 `When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
@@ -122,10 +122,10 @@
 ` I beg of you, show yourself to me!!`
 ` You're here, aren't you?!`
 ` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
-`"Please, appear before me one more time and smile!!`
-` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
-` I don't want to die alone like this!!`
-` I cannot let myself die until I've seen your smile just one more time!!"`
+`"Proszę, pokaż się przede mną choć jeszcze jeden raz i uśmiechnij się!!`
+` Możesz mnie zbesztać, a nawet odebrać mi życie własnymi rękami, jeśli chcesz!!!`
+` Nie chcę umrzeć sam w taki sposób!!`
+` Nie mogę sam z siebie umrzeć dopóki nie zobaczę twoje uśmieszku chociaż jeden raz!!"`
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
 ` Oferuję ci moje życie, Oferuję to do ciebie!!`
 ` Błagam cię, {f:5:Beatriceeeeee}!!!"`
@@ -169,7 +169,7 @@
 `Dopóki nie osiągnąłem zrywu wzrostowego, mój wzrost był poniżej średniej w mojej klasie.`
 `Ale wtedy, Kiedy rosłem i rosłem, i zanim to wiedziałem, miałem powyżej 180 cm.`
 `Myślę, że mam za to do zawdzięczenia cały ten trening mięśniowy i te podejrzane wysyłkowe leki zwiększające wydajność.`
-Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wyżej niż George-aniki, który wcześnie osiągnął swój szczytowy wzrost.`
+`Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wyżej niż George-aniki, który wcześnie osiągnął swój szczytowy wzrost.`
 `......Cholera, Założę się, że wszyscy moi krewni powiedzą "Patrz, jak urosłeś, Battler-chan!” czy coś.`
 `...To jest rodzaj rzeczy która jest całkiem zawstydzająca, więc mam nadzieję, że mi odpuszczą.`
 `W każdym razie, moje imię, "Battler"...`
@@ -314,19 +314,19 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 `......Możesz to przeczytać?`
 ` Nie wiele potrafi, Powiem ci to.`
 `{n}Ta mieszanina znaków jest wymawiana jako "Rudolf".`
-`Haha...he must hate Grandfather for giving him that name.`
-`Still, that's no reason to pass that weird naming tradition onto me.`
-`As the old bastard twisted my ear all over the place, Auntie Eva snuck up behind him and grabbed his ear.`
-`"Hey, Rudolf?`
-` Don't take your frustrations out on your kid."`
-`"Gyaah, that hurts, Aneki..."`
-`The scene before me was a perfect realization of the trope of the older sister who deals out punishment to her prankster younger brother despite his size.`
-`"I think that's good enough for now, Eva nee‐san.`
-` I'll make sure to stretch out his other ear later on."`
-`"Oh, my apologies.`
-` I must leave some pulling for you to do, Kyrie‐san."`
+`Haha...musi nienawidzieć Dziadka za nadanie jego takiego imienia.`
+`Wciąż, to nie powód, by przenosić na mnie tę dziwną tradycję nadawania imion..`
+`Gdy stary drań wykręcał mi ucho na wszystkie strony, ciocia Eva zakradła się za niego i złapała go za ucho.`
+`"Hej, Rudolf?`
+` Nie wywieraj swojej frustracji na twoje dziecko."`
+`"Gyaah, to boli, Aneki..."`
+`Scena przede mną była idealną realizacją tropy starszej siostry, która wymierza karę swojemu młodszemu bratu, mimo jego rozmiarów.`
+`"Myślę że na teraz wystacy, Eva nee‐san.`
+` Upewnię się, że później wyciągnę jego drugie ucho."`
+`"Oh, przepraszam.`
+` Muszę zostawić ci trochę do zrobienia, Kyrie‐san."`
 `"Rudolf?`
-` Make sure Kyrie‐san gives you lots and lots of punishment later on, alright?"`
+` Upewnij się że Kyrie‐san Da ci dużo kary później, w porządku?"`
 `"You're one to talk, Aneki, bullying your little brother like that."`
 `"Hideyoshi nii‐san, I'd like to thank you very much for picking her up.`
 ` If you hadn't been so generous, she'd still be unsold in the store.`
@@ -417,8 +417,8 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 ` ......I hope I never turn out like that old bastard.`
 ` I'd much rather end up as an intellectual adult like you, Aniki."`
 `"Like me?`
-` Oh, I still have a long way to go.`
-` I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.`
+` Oh, mam jeszcze wciąż długą drogę.`
+` Nadal mam mało doświadczenia tu w prawdziwym świecie, i muszę popracować nad stanie się bardziej bold and sociable.`
 ` ...I think you've far surpassed me on all of those counts, Battler‐kun.`
 ` I'm sure you'll outstrip me fast enough when you become an adult."`
 `George‐aniki scratched his head and laughed, as though trying to hide his embarrassment.`
@@ -441,13 +441,13 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 `Should I go on one of those self‐searching journeys that are all the rage these days?`
 `{n}......Well, it's not like I could mooch off my parents for that kind of money...`
 `"......hm?! Ohh~!"`
-`Right then, Uncle Hideyoshi shouted out loudly.`
-`{n}Uncle's a really nice person on the whole, but he does have a problem controlling the volume of his voice.`
-`When I looked over, I saw that he was greeting Auntie Rosa, who had come late.`
+`Właśnie teraz, Wujek Hideyoshi głośno krzyknął.`
+`{n}Wujek jest ogólnie bardzo miłą osobą, ale ma problem z kontrolowaniem głośności swojego głosu.`
+`Kiedy spojrzałem się za siebie, zobaczyłem że się wita z Cioteczką Rosa, która przyszła dość późno.`
 `"Ohoooooooooh!!!`
-` If it isn't Rosa‐san!`
-` Maria‐chan, long time no see!!"`
-`"Long time no seee!`
+` Czy to nie Rosa‐san!`
+` Maria‐chan, dawno się nie widzieliśmy!!"`
+`"Dawno się nie widzieliśmy!`
 ` Uu!"`
 `"Maria!`
 ` Czy nie powinno to być "Dobrze cię znów widzieć"?`
@@ -456,24 +456,24 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 ` Dobrze...cię znów widzieć..."`
 `"Proszę bardzo!`
 ` Dobrze powiedziane!`
-` How about some candy as a reward?!`
-` ......Oh, huh?`
-` Where'd I put 'em..."`
-`"Rosa‐san, it's good to see you again.`
-` It's good to see you too, Maria‐chan."`
-`"It's been too long, Kyrie nee‐san, Hideyoshi nii‐san."`
-`"...And...`
-`...oh my, Battler‐kun?!`
-` Look how big you've gotten...!"`
+` Co ty na curkierka w nagrodę?!`
+` ......O, huh?`
+` Gdzie je położyłem..."`
+`"Rosa‐san, dobrze cię znów widzieć.`
+` Dobrze cię widzieć również, Maria‐chan."`
+`"Minęło tak długo, Kyrie nee‐san, Hideyoshi nii‐san."`
+`"...I...`
+`...o ja, Battler‐kun?!`
+` Zobacz jak urosłeś...!"`
 `"Ah, daj spokój, hahaha...`
 ` It's embarrassing hearing that from every person I meet...!"`
 `"Hej, Rosa.`
 ` Spóźniłaś się.`
-` If the plane was on time, you'd barely have made it..."`
-`"I'm sorry.`
+` Jeśli samolot był na czas, ty byś ledwo zdążyła..."`
+`"Przepraszam.`
 ` We had some trouble making our train connection.`
 ` So we're waiting on the weather yet again?"`
-`"Oh, don't complain.`
+`"Oh, nie narzekaj.`
 ` I much prefer the thirty‐minute plane trip to spending six hours bouncing about on a boat.`
 ` Even if we're kept waiting here for an hour, it's still much faster overall."`
 `"Maria‐chan's gotten huge too!!`
@@ -488,17 +488,17 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 ` She just keeps getting bigger and bigger.`
 ` Don't you?"`
 `"Uu!"`
-`"I think she's grown a lot since last year.`
-` Let's see, she turned nine years old this year, didn't she?"`
+`"Wydaje mi się że trochę podrosła przez ostatni rok.`
+` Zobaczmy, skończyła już dziewięć lat w tym roku, czyż nie?"`
 `"Dziewięć lat.`
 ` Uu."`
 `"To racja, masz już dziewięć lat.`
 ` Glad to see you're doing well too, Maria‐chan!"`
 `"W górę...`
 `...nng...`
-` I guess you've gotten a bit too heavy to play airplane with..."`
+` Wydaje mi się że zrobiłaś się trochę za ciężka na zabawę w samolot..."`
 `"George‐aniki, what a rude thing to say to a lady.`
-` Here, I'll do it... Up ya go~..."`
+` Tutaj, Zrobię to... Do góry~..."`
 `"......Uu."`
 `When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
 `...Ah, that's right.`
@@ -523,13 +523,13 @@ Nigdy wcześniej nie marzyłem, że będę strzelał dziesięć centymetrów wy�
 ` ............??`
 ` ......Uuuu!!"`
 `To "uu" były prawdopodobnie odgłosem jej trybików w głowie, niezdolnego do zrozumienia skomplikowanego wyjaśnienia.`
-`I guess it was a bit too confusing for her.`
+`Myślę że to dla niej było zbyt mylące.`
 `"Maria‐chan.`
 ` To jest Battler‐kun.`
 ` Jest twoim kuzynem, jak ja."`
 `"......Jak George onii‐chan?`
 ` ...........................Battler?`
-` Cousin?`
+` Kuzynem?`
 ` ......Uu."`
 `"That's right.`
 ` You got it."`
