@@ -390,22 +390,22 @@
 ` ......Chyba jesteśmy na to skazani, skoro konferencja rodzinna odbywa się co roku w Październiku.`
 ` Nie mógł wybrać lepszą porę roku?"`
 `"Zgadzam się.`
-` I've always hoped we could have it sometime around the Obon festival in mid‐August.`
-` In that case, why don't you suggest that to Father and Nii‐san during the conference?"`
-`"...Very funny.`
-` Why don't you do it yourself?`
-` Our brother would never listen to anything I suggested."`
-`"No way.`
-` It doesn't really bother me that much to have it in October.`
-` You were the one who complained about the typhoon, so I said "ask them to change it then",`
-` that's all."`
-`"I only said that typhoons always come around this time of year.`
-` You're the one who said you wanted to move it nearer to Obon."`
-`"Well, you said it too last year!`
-` Didn't you say that it would be easier to fit into your schedule if we had it nearer Obon?!"`
-`"I've never said anything like that."`
-`"Oh yes, you did.`
-` I certainly wouldn't forget something like that!"`
+` Zawsze miałam nadzieję, że uda nam się to zrobić w okolicach festiwalu Obon w połowie Sierpnia.`
+` W takim razie, dlaczego nie zasugerujesz tego Ojcu i Nii‐san podczas konwersacji?"`
+`"...Bardzo śmieszne.`
+` Dlaczego ty nie zrobisz tego sama?`
+` Nasz brat nigdy nie słucha tego co zasugeruję."`
+`"Nie ma opcji.`
+` Nie za bardzo obchodzi mnie to że musimy to mieć w Październiku.`
+` Ty jesteś tym który narzekał na tajfun, więc powiedziałam "zapytaj ich żeby to zmienili",`
+` to wszystko."`
+`"Mówiłem tylko że tajfuny zawsze przychodzą w tym czasie w roku.`
+` To ty powiedziałaś, że chcesz to przenieść bliżej Obon."`
+`"Cóż, mówiłeś to w zeszłym roku!`
+` Czy nie powiedziałeś, że byłoby łatwiej dopasować się do twojego harmonogramu, gdybyśmy mieli to bliżej Obon?!"`
+`"Nigdy czegoś takiego nie mówiłem."`
+`"O tak, powiedziałeś.`
+` Ja z pewnością nie mogłabym zapomnieć czegoś takiego!"`
 `"No, I didn't... You're the one saying that all the time!"`
 `"Are you aware?`
 ` Stopping a kick just a hair's breadth away is a very high‐level technique."`
@@ -418,11 +418,11 @@
 ` I'd much rather end up as an intellectual adult like you, Aniki."`
 `"Like me?`
 ` Oh, mam jeszcze wciąż długą drogę.`
-` Nadal mam mało doświadczenia tu w prawdziwym świecie, i muszę popracować nad stanie się bardziej bold and sociable.`
-` ...I think you've far surpassed me on all of those counts, Battler‐kun.`
-` I'm sure you'll outstrip me fast enough when you become an adult."`
-`George‐aniki scratched his head and laughed, as though trying to hide his embarrassment.`
-`{n}Of course, he was just being humble.`
+` Nadal mam mało doświadczenia tu w prawdziwym świecie, i muszę popracować nad stanie się bardziej odważny i towarzyski.`
+` ...Myślę, że znacznie przewyższyłeś mnie pod każdym względem, Battler-kun.`
+` Jestem pewien, że prześcigniesz mnie wystarczająco szybko, gdy staniesz się starszy."`
+`George‐aniki podrapał się po głowie i się zaśmiał, próbując ukryść jego zawstydzenie.`
+`{n}Oczywiście, że był po prostu skromny.`
 `Aniki entered a university and became an apprentice at Uncle Hideyoshi's company at the same time, studying both academics and how to become a business emperor in parallel.`
 `Then, right after graduating, he got into Uncle Hideyoshi's company as his father's aide, piling up a lot of real‐life experience as he devoted himself zealously to his work.`
 `He even has grand dreams, of one day standing on his own and becoming lord of his own domain.`
@@ -493,25 +493,25 @@
 `"Dziewięć lat.`
 ` Uu."`
 `"To racja, masz już dziewięć lat.`
-` Glad to see you're doing well too, Maria‐chan!"`
+` Dobrzę mi widzieć że się dobrze czujesz, Maria‐chan!"`
 `"W górę...`
 `...nng...`
 ` Wydaje mi się że zrobiłaś się trochę za ciężka na zabawę w samolot..."`
-`"George‐aniki, jak można tak niemiło żeby mówić tak o.`
+`"George‐aniki, jak można tak niemiło żeby mówić tak o panience.`
 ` Tutaj, Zrobię to... Do góry~..."`
 `"......Uu."`
-`When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
-`...Ah, that's right.`
-` The last time I met Maria, it was six years ago, and she was only three years old.`
-`Of course she doesn't remember my face.`
-`"Maria‐chan, don't you remember?`
+`Kiedy podniosłem ją na miejsce Aniki, Maria zesztywniała obronnie, wpatrując się podejrzliwie w moją twarz.`
+`...Ah, to prawda.`
+` Ostatni raz kiedy spotkałem Marię, było sześć lat temu, i miała tylko trzy latka.`
+`Oczywiście że nie pamięta mojej twarzy.`
+`"Maria‐chan, nie pamiętasz?`
 ` It's Battler‐kun.`
-` You used to play together, remember?"`
+` Kiedyś się razem bawiliście, pamiętasz?"`
 `".........Uu."`
-`"I doubt you'll have any luck.`
-` The last time she met Battler, she was only three.`
-` You don't keep memories at that age."`
-`She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
+`"Watpię by cokolwiek pamiętała.`
+` Ostatni raz kiedy spotkała Battlera, miała tylko trzy latka.`
+` Nie zachowywałaś wspomnień w tym wieku."`
+`Musi znać twarze wszystkich oprócz mojej, ponieważ spotyka się z nimi co roku, ale ja nie miałem kontaktu z rodziną Ushiromiya od około sześciu lat.`
 `Więc, to żadna niespodzianka ta dziewięcio-letnia dziewczynka nie ma żadnych wspomnień ze mną.`
 `Nawet ja ją ledwo pamiętam jako trzyletnią beksę.`
 `"Maria.`
@@ -526,7 +526,7 @@
 `Myślę że to dla niej było zbyt mylące.`
 `"Maria‐chan.`
 ` To jest Battler‐kun.`
-` Jest twoim kuzynem, jak ja."`
+` Jest twoim kuzynem, tak jak ja."`
 `"......Jak George onii‐chan?`
 ` ...........................Battler?`
 ` Kuzynem?`
@@ -538,13 +538,13 @@
 `{n}I'm sure that he'll be an indulgent father in the future.`
 `"...Battler onii‐chan?"`
 `Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
-`"Yep, that's me, Battler.`
-` Nice to meet you, Maria!"`
+`"Tak, to ja, Battler.`
+` Miło mi cię poznać, Maria!"`
 `"Uu!`
 ` Battler!"`
 `"Maria!`
-` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
-`"It's cool, Auntie Rosa.`
+` Nie możesz zwracać się do niego bez honorów - nazywaj go Battler onii-chan...!"`
+`"To w porządku, Auntie Rosa.`
 ` Nie martwię się takimi drobiazgami.`
 ` Prawda, Maria?!`
 ` Jesteśmy kumplami po imieniu, co nie?!"`
@@ -552,26 +552,26 @@
 ` Uu‐uu!"`
 `"Tak jest, Maria, Maria, Mariaaa!`
 ` Uu‐uu!!"`
-`We horsed around for a while to make up for the six‐year gap in our friendship.`
-`She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
-`But I'm surprised.`
-` She's just the way I remembered her being six years ago.`
-`Seems that people just don't change that much after all.`
-`{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
+`Wygłupialiśmy się przez pewien czas, aby nadrobić sześcioletnią przerwę w naszej przyjaźni.`
+`Prawdopodobnie nadal myśli o mnie jako nikim więcej niż o nowym dużym przyjacielu, ale rzeczy prawdopodobnie wyjdą w praniu kiedy jeszcze raz się spotkamy.`
+`Ale jestem zaskoczony.`
+` Ona jest dokładnie taka sama jak zapamiętałem ją szcześć.`
+`Wygląda na to że ludzie w końcu nie zmieniają się aż tak bardzo.`
+`{n}Jestem trochę szczęśliwy, że nadal jest niewinną dziewczynką, którą pamiętam.`
 `Jej imię się piszę {p:0:真里亞}.`
 `{n}...To nie jest zbyt trudno odczytać.`
-` Oczywiście, it says "Maria".`
-`{n}The third character looks like a cross, co jest całkiem czadowe.`
-`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
+` Oczywiście, to się wymawia "Maria".`
+`{n}Trzeci znak wygląda jak krzyż, co jest całkiem czadowe.`
+`Jej uczucia zazwyczaj nie ukazują się na jej twarzy, więc jest trudno żeby rozpoznać o czym myśli, ale właśnie w taki sposób wygląda na zewnątrz.`
 `{n}W wewnątrz, jest poprostu słodką, normalną dziewczynką.`
-`Wtedy jest matka Marii, Cioteczka Rosa.`
+`A zatem jest matka Marii, Ciotka Rosa.`
 `{n}Jest młodszą siostrą mojego taty.`
 `Rosa się piszę {p:0:楼座}.`
 ` ...Jej imię totalnie nie jest Japońskie.`
-`Sorry to say it, but her name's almost as ridiculous as Dad's...`
-` I've got to respect her for not ending up as screwed up as he is.`
-`...When I think about it, all the names in my family sound foreign.`
-`{n}Just why is Grandfather so obsessed with this?`
+`Przykro mi to mówić, ale jej imię jest prawie tak niesamowite jak Ojca...`
+` Muszę ją szanować za to, że nie skończyła tak pokręcona jak on.`
+`...Kiedy myślę o tym, wszystkie imiona mojej rodziny brzmaiły by tak obco.`
+`{n}Dlaczego dziadek ma na tym punkcie taką obsesję?`
 `Because of him, even us grandchildren have to put up with this weird naming sense.`
 `{n}It's even more annoying since Grandfather's own name is perfectly normal.`
 `Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
@@ -590,8 +590,8 @@
 `"O boże...!`
 ` Maria, chodź prędko!"`
 `"Uu!"`
-`We had to go through a metal detector before going out on the runway.`
-`Our small plane wasn't as massive as an international flight, but it was still a plane.`
+`Przed wyjściem na pas startowy musieliśmy przejść przez wykrywacz metalu.`
+`Our small plane wasn't as massive as an international flight, ale wciąż to był samolot.`
 ` A staff member holding a metal detector checked us all.`
 `Once all of us cleared the check, we followed the staff member out onto the runway.`
 `Come to think of it, everyone here is in the Ushiromiya family.`
