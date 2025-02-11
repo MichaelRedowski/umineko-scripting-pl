@@ -377,19 +377,19 @@
 `Teraz, jestem po prostu szczęśliwy że Cioteczka Eva dała tacie jego sprawiedliwe zasługi za szarpanie mnie za ucho.`
 `"Wygląda na to że wciąż czekamy na raport pogodowy."`
 `George‐aniki wskazywał na licznik.`
-`{n}The "Pending Weather Clearance" sign was still stuck next to the scheduled departure time for the flight we were scheduled to board.`
-`According to Aniki, smaller planes are more subject to winds and other effects of the weather,`
-` and it's not at all uncommon for flights to be delayed because of that.`
-`......Wait a sec, it isn't really going to shake...is it...?`
+`{n}Znak "Oczekiwanie na zgodę na warunki pogodowe" wciąż tkwił obok planowanego czasu odlotu lotu, na który mieliśmy wsiąść.`
+`Według Aniki, mniejsze samoloty są bardziej podatne na wiatry i inne czynniki pogodowe,`
+` i nierzadko zdarza się, że loty są z tego powodu opóźnione.`
+`......Poczekaj sekundkę, naprawdę to nie będzie trząść...co nie...?`
 `From down here on the ground, it just looks cloudy, not windy.`
 `...Well, I guess it's different up where the planes fly.`
 `"The weather's a bit uncertain today."`
-`Auntie Eva was looking at a TV in the lounge.`
-`{n}The weather forecast was being broadcast, informing us that a typhoon was approaching the Kanto region.`
-`"A typhoon again?`
-` ......I guess we're doomed to these, with the family conference being in October every year.`
-` Couldn't he choose a better season?"`
-`"I agree.`
+`Cioteczka Eva patrzyła w poczekalni na telewizor.`
+`{n}Nadawano prognozę pogody, informującą, że tajfun zbliża się do regionu Kanto.`
+`"Znowu tajfun?`
+` ......Chyba jesteśmy na to skazani, skoro konferencja rodzinna odbywa się co roku w Październiku.`
+` Nie mógł wybrać lepszą porę roku?"`
+`"Zgadzam się.`
 ` I've always hoped we could have it sometime around the Obon festival in mid‐August.`
 ` In that case, why don't you suggest that to Father and Nii‐san during the conference?"`
 `"...Very funny.`
@@ -436,7 +436,7 @@
 `...When Aniki was my age, he had already formed an impressive objective and had started devoting himself towards studying for that goal, so I guess I can't compare at all.`
 `My dad just says "sure you can study at my company, if you like cleaning toilets".`
 `Dammit, I'm not gonna be in the debt of that old bastard.`
-`{n}I'll find my way myself!`
+`{n}Znajdę sam swoją drogę!`
 `{n}.........I guess that intensity is my one qualification towards adulthood.`
 `Should I go on one of those self‐searching journeys that are all the rage these days?`
 `{n}......Well, it's not like I could mooch off my parents for that kind of money...`
@@ -481,12 +481,12 @@
 `"Uu!`
 ` Więc, jak jestem teraz wysoka?"`
 `Maria papugowała pytanie Wujka Hideyoshi'ego, patrąc na jej matkę.`
-`I guess she doesn't remember her own height.`
-`{n}She's probably right in the middle of a growth spurt, so her height must change every month.`
-`In just a few more years, she'll probably start looking very feminine.`
+`Wydaje mi się że niezbyt dobrze pamięta swój wzrost.`
+`{n}Prawdopodobnie jest w samym środku zrywu wzrostu, więc jej wzrost musi zmieniać się co miesiąc.`
+`W zaledwie kilka lat, prawdopodobnie będzie wyglądać już bardzo kobieco.`
 `"Umm, ...jak byłaś wysoki jak ostatnio cię mierzyliśmy...?`
 ` Rośnie jak na drożdżach.`
-` Conie?"`
+` Co nie?"`
 `"Uu!"`
 `"Wydaje mi się że trochę podrosła przez ostatni rok.`
 ` Zobaczmy, skończyła już dziewięć lat w tym roku, czyż nie?"`
@@ -497,7 +497,7 @@
 `"W górę...`
 `...nng...`
 ` Wydaje mi się że zrobiłaś się trochę za ciężka na zabawę w samolot..."`
-`"George‐aniki, what a rude thing to say to a lady.`
+`"George‐aniki, jak można tak niemiło żeby mówić tak o.`
 ` Tutaj, Zrobię to... Do góry~..."`
 `"......Uu."`
 `When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
@@ -545,12 +545,12 @@
 `"Maria!`
 ` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
 `"It's cool, Auntie Rosa.`
-` I don't sweat the small stuff.`
-` Right, Maria?!`
-` We're buddies on a first‐name basis, us two, aren't we?!"`
+` Nie martwię się takimi drobiazgami.`
+` Prawda, Maria?!`
+` Jesteśmy kumplami po imieniu, co nie?!"`
 `"Battler, Battler, Battleeerrr!`
 ` Uu‐uu!"`
-`"That's right, Maria, Maria, Mariaaa!`
+`"Tak jest, Maria, Maria, Mariaaa!`
 ` Uu‐uu!!"`
 `We horsed around for a while to make up for the six‐year gap in our friendship.`
 `She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
@@ -603,8 +603,8 @@
 ` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
 ` I will now begin reading the passenger list.`
 ` Ushiromiya Hideyoshi‐sama!"`
-`"Oh, I'm first!`
-` Right here!`
+`"Oh, Jestem pierwszy!`
+` Tutaj!`
 ` ...By the way, do you have the candies, Eva?`
 ` I've been lookin' all over for 'em, but I can't find 'em."`
 `"Ushiromiya Eva‐sama."`
