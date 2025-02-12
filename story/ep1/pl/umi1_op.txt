@@ -129,9 +129,9 @@
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
 ` I offer up this life of mine, I offer it up to you!!`
 ` I'm begging you, {f:5:Beatriceeeeee}!!!"`
-`"Whoa...`
-` Things sure move with the times...`
-` I can't believe we'll be able to make the trip in just twenty minutes..."`
+`"Łoa...`
+` Sprawy z pewnością z czasem się zmiemiają...`
+` Nie do uwierzenia we'll be able to make the trip in just twenty minutes..."`
 `I couldn't help but scratch my head and marvel at how far things have come in recent years.`
 `{n}We used to go by boat.`
 `Back then, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
@@ -583,75 +583,75 @@
 `Alright.`
 ` Now we have the entire group of family members who are going to board the plane.`
 `As though it had waited for us all to gather, an announcement rang out through the lobby.`
-`"Our apologies for the wait.`
+`"Przepraszamy że musieliście czekać.`
 ` Boarding will now commence for flight 201 to Niijima.`
 ` We ask that the passengers please form two lines in front of the counter, behind the white line."`
-`"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
-`"Oh no...!`
-` Maria, come on!"`
+`"Rosa, ty nadal nie przeszłaś przez procedury lotniskowe, prawda? Pospiesz się."`
+`"O boże...!`
+` Maria, chodź prędko!"`
 `"Uu!"`
 `We had to go through a metal detector before going out on the runway.`
 `Our small plane wasn't as massive as an international flight, but it was still a plane.`
 ` A staff member holding a metal detector checked us all.`
 `Once all of us cleared the check, we followed the staff member out onto the runway.`
-`Come to think of it, everyone here is in the Ushiromiya family.`
-`It's like this is a reserved charter flight or something.`
-`Our group stopped in front of the entrance to the airplane.`
-`{n}Then, our guide turned around and spoke, looking down at the passenger list as she did.`
-`"Boarding will now commence.`
-` As I call out the names on the passenger list,`
-` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
-` I will now begin reading the passenger list.`
+`Myśląc o tym, wszyscy tu obecni należą do rodziny Ushiromiya.`
+`To wyglądało to jak jakiś zarezerwowany lot czarterowy czy coś w tym stylu.`
+`Nasza grupa przodem zatrzymała się przed wejściem do samolotu.`
+`{n}Wtedy, nasza przewodniczka odwróciła się i przemówiła, patrząc na listę pasażerów.`
+`"Rozpocznie się wejście na pokład.`
+` W międzyczasie kiedy będę czytać listę pasażerów,`
+` proszę usiądźcie na siedzeniach w odpowiednej kolejność, zaczynając od przedniego rzędu po prawej stronie idąc od prawej do lewej, a następnie od kolejnego rzędu.`
+` Zacznę teraz czytać listę pasażerów.`
 ` Ushiromiya Hideyoshi‐sama!"`
-`"Oh, I'm first!`
-` Right here!`
-` ...By the way, do you have the candies, Eva?`
-` I've been lookin' all over for 'em, but I can't find 'em."`
+`"O, jestem pierwszy!`
+` Obecny!`
+` ...A tak w ogóle, masz jakieś cukierki, Eva?`
+` Szukałem ich wszędzie, ale nie mogłem ich znaleźć."`
 `"Ushiromiya Eva‐sama."`
-`"They're in my handbag.`
-` I'll get them once we're inside the plane."`
-`I've heard that candies are a good way to protect your ears from hurting due to variations in atmospheric pressure when landing or taking off.`
-` That's probably what they're talking about.`
-`"...Hope I get a window seat!"`
-`"Hahaha, don't worry.`
-` There aren't any other kinds of seats."`
-`According to George‐aniki, there are apparently only two lines of seats.`
-`Yep, it's a small plane alright...`
-` .........It isn't really going to shake...is it...?`
+`"Są w mojej torebce.`
+` Wezmę je kiedy już wsiądziemy do samolotu."`
+`Słyszałem że cukierki są dobrym sposobem aby uchronić twoje uszy from hurting due przed zamianami ciśnień atmosferycznych podczas lądowania czy startu.`
+` To jest to o czym prawdopodobnie rozmawiali.`
+`"...Mam nadzięję że dostanę miejsce przy oknie!"`
+`"Hahaha, nie martw się.`
+` Nie ma tu jakiś innych rodzaj siedzeń."`
+`Według George'a‐aniki, są zazwyczaj tylko dwa rzędy siedzeń.`
+`Taa, to już jest mały samolot...`
+` .........naprawdę nie będzie trząść...prawda...?`
 `"Ushiromiya George‐sama."`
-`"Right here.`
-` Don't worry, Battler‐kun.`
-` It won't shake too much."`
+`"Obecny.`
+` Nie martw się, Battler‐kun.`
+` Nie będzie aż tak bardzo trząść."`
 `"Ushiromiya Battler‐sama."`
-`"A‐Aniki, how much is "not too much"?!`
-` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
-` We all get our own parachutes in our seats, don't we?`
-` Wait, we don't?!"`
+`"A‐Aniki, jak bardzo znaczy "nie aż tak bardzo"?!`
+` Możesz poprostu pływać jeśli spadniesz z łodzi, ale jeśli samolot się rozbije będziemy mieli przesrane, prawda?!`
+` Mamy wszystkie nasze spadochrony w siedzeniach, co nie?`
+` Czekaj, nie mamy?!"`
 `"Ushiromiya Rudolf‐sama."`
-`"Come on, Battler, quit being a wuss and get in."`
-`"Ow! Dad!`
-` Don't push me!`
-` We don't get parachutes!"`
+`"No weź, Battler, przestań już srać po gaciach i siadaj."`
+`"Ał! Tato!`
+` Nie popychaj mnie!`
+` Nie mamy spadochronów!"`
 `"Ushiromiya Kyrie‐sama."`
-`"Alright, stop fooling around.`
-` Let's move along."`
-`"Ow! Kyrie!`
-` Don't push me!`
-` This blockhead isn't moving forward!"`
+`"Dobra, dosyć tych wygłupów.`
+` Ruszajmy."`
+`"Ał! Kyrie!`
+` Nie popychaj mnie!`
+` To ten łobuz nie chce się ruszyć!"`
 `"Ushiromiya Maria‐sama."`
 `"Uu!`
-` Forward, forward!"`
+` Naprzód, naprzód!"`
 `"Ushiromiya Rosa‐sama."`
 `"Maria!`
-` Keep quiet..."`
-`"This is your pilot, Kawabata.`
-` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
-` We estimate that the flight to Niijima Airport will take about twenty minutes."`
-`"We are receiving reports of atmospheric turbulence.`
-` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
-`"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
-` In a jumbo jet, they let you undo them after takeoff!`
-` So it's gonna shake so much we can't take them off?!"`
-`"Dammit, you tricked me, it is going to shake after all!`
-` Where are the parachutes?!`
-` I knew I should've taken the boooooaaaaat!!"`
+` Cicho bądź..."`
+`"Tu wasz pilot, Kawabata.`
+` Chieliśmy dzisiaj wam  za wzięcie udziału w Tokyo Aviation's flight 201.`
+` Szacujemy że lot na Lotnisko Niijima zajmie około dwudziestu minut."`
+`"Otrzymujemy zgłoszenia o atmosferycznych turbulencjach.`
+` Mogą być lekkie w samolocie wstrząsy,  więc prosimy aby nie odpinać po starcie pasów."`
+`"A‐Aniki, czy ten koleś powiedział że musimy zapiąć pasy?!`
+` W jumbo jecie, po starcie pozwalają je odpiąć!`
+` Więc będzie trząść tak bardzo że nie będzie mogli ich odpiąć?!"`
+`"Cholera, oszukaliście mnie, i tak będzie trząść!`
+` Gdzie są spadochrony?!`
+` Wiedziałem że powinienem wziąźć łóóóóóóóódźźźźźź!!"`
