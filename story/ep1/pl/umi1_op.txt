@@ -537,16 +537,16 @@
 `For someone who isn't married, he's just great at dealing with kids.`
 `{n}I'm sure that he'll be an indulgent father in the future.`
 `"...Battler onii‐chan?"`
-`Maria patrzyła wprost na mnie z pytającą miną, pytając się w jaki sposób powinna się do mnie zwracać.`
-`"Ta, to ja, Battler.`
+`Maria wpatrywała się we mnie z pytającą miną, niepewna, jak powinna się do mnie zwrócić.`
+`"Ta, mów mi, Battler.`
 ` Miło mi cię poznać, Maria!"`
 `"Uu!`
 ` Battler!"`
 `"Maria!`
 ` Nie wolno ci nazywać go bez honorów—nazywaj go Battler onii‐chan...!"`
-`"To w porządku, Auntie Rosa.`
+`"To w porządku, Ciociu Roso.`
 ` Nie martwię się takimi drobiazgami.`
-` Prawda, Maria?!`
+` Prawda, Mario?!`
 ` Jesteśmy kumplami po imieniu, prawda?!"`
 `"Battler, Battler, Battleeerrr!`
 ` Uu‐uu!"`
@@ -555,14 +555,14 @@
 `Wygłupialiśmy się przez jakiś czas, aby nadrobić sześcioletnią przerwę naszej przyjaźni.`
 `Nadal ona myśli o mnie jako nikogo więcej niż nowego dużego przyjaciela, ale prawdopodobnie wszystko wyjdzie w praniu gdy znów zapoznamy się na nowo.`
 `Ale jestem zaskoczony.`
-` Jest dokładnie tak jak ją zapamiętałem sześć lat temu.`
+` Jest dokładnie taka jaką ją zapamiętałem sześć lat temu.`
 `Wygląda na to że poprostu ludzie niezbyt się zmieniają.`
 `{n}Jestem troszkę szczęśliwy że ona jest nadal taką niewinną dziewczynką jaką pamiętam.`
 `Jej imię się piszę {p:0:真里亞}.`
-`{n}...To imię nie jest zbyt trudne do odczytanja.`
+`{n}...To imię nie jest zbyt trudne do odczytania.`
 ` Oczywiście, wymawia się to "Maria".`
-`{n}Trzeci znak wygląda jak krzyż, co jest całkiem czadowe.`
-`Jej uczucia nie pokazują się zbyt wiele na jej twarzy, więc to jest trudne żeby pomyśleć o czym myśli, ale właśnie w taki sposób jest na zewnątrz.`
+`{n}Trzeci znak wygląda jak krzyż, co jest całkiem fajne.`
+`Trudno odczytać jej ekspresję z samego wyrazu twarzy, więc nie łatwo zgadnąć co ma na myśli, ale to tylko jej zewnętrzna fasada.`
 `{n}A wewnątrz, jest poprostu słodką, normalną dziewczynką.`
 `Następnie jest matka Marii, Ciotka Rosa.`
 `{n}Jest młodszą siostrą mojego taty.`
