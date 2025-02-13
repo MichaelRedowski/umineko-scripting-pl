@@ -132,7 +132,7 @@
 `"Łoa...`
 ` Sprawy z pewnością z czasem się zmiemiają...`
 ` Nie do uwierzenia we'll be able to make the trip in just twenty minutes..."`
-`I couldn't help but scratch my head and marvel at how far things have come in recent years.`
+`Nie mogłem nic poradzić na to że podrapałem and marvel at how far things have come in recent years.`
 `{n}We used to go by boat.`
 `Back then, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
 ` Things have gotten so much more convenient these days.`
@@ -537,65 +537,65 @@
 `For someone who isn't married, he's just great at dealing with kids.`
 `{n}I'm sure that he'll be an indulgent father in the future.`
 `"...Battler onii‐chan?"`
-`Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
-`"Yep, that's me, Battler.`
-` Nice to meet you, Maria!"`
+`Maria patrzyła wprost na mnie z pytającą miną, pytając się w jaki sposób powinna się do mnie zwracać.`
+`"Ta, to ja, Battler.`
+` Miło mi cię poznać, Maria!"`
 `"Uu!`
 ` Battler!"`
 `"Maria!`
-` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
-`"It's cool, Auntie Rosa.`
-` I don't sweat the small stuff.`
-` Right, Maria?!`
-` We're buddies on a first‐name basis, us two, aren't we?!"`
+` Nie wolno ci nazywać go bez honorów—nazywaj go Battler onii‐chan...!"`
+`"To w porządku, Auntie Rosa.`
+` Nie martwię się takimi drobiazgami.`
+` Prawda, Maria?!`
+` Jesteśmy kumplami po imieniu, prawda?!"`
 `"Battler, Battler, Battleeerrr!`
 ` Uu‐uu!"`
-`"That's right, Maria, Maria, Mariaaa!`
+`"Tak jest, Maria, Maria, Mariaaa!`
 ` Uu‐uu!!"`
-`We horsed around for a while to make up for the six‐year gap in our friendship.`
-`She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
-`But I'm surprised.`
-` She's just the way I remembered her being six years ago.`
-`Seems that people just don't change that much after all.`
-`{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
-`Her name is written {p:0:真里亞}.`
-`{n}...That one's not so difficult to read.`
-` Of course, it says "Maria".`
-`{n}The third character looks like a cross, which is pretty cool.`
-`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
-`{n}On the inside, she's just a sweet, normal girl.`
-`Then there's Maria's mother, Auntie Rosa.`
-`{n}She's my dad's younger sister.`
-`Rosa is written {p:0:楼座}.`
-` ...Here's a name that's totally not Japanese.`
-`Sorry to say it, but her name's almost as ridiculous as Dad's...`
-` I've got to respect her for not ending up as screwed up as he is.`
-`...When I think about it, all the names in my family sound foreign.`
-`{n}Just why is Grandfather so obsessed with this?`
-`Because of him, even us grandchildren have to put up with this weird naming sense.`
-`{n}It's even more annoying since Grandfather's own name is perfectly normal.`
-`Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
-`The old bastard and Auntie Eva have this annoying urge to tease and mock people all the time,`
-` but even though she shares their blood, Auntie Rosa isn't like that at all.`
-`She has the most common sense among all the siblings.`
-`Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side.`
-`......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi is.`
-`Alright.`
-` Now we have the entire group of family members who are going to board the plane.`
-`As though it had waited for us all to gather, an announcement rang out through the lobby.`
+`Wygłupialiśmy się przez jakiś czas, aby nadrobić sześcioletnią przerwę naszej przyjaźni.`
+`Nadal ona myśli o mnie jako nikogo więcej niż nowego dużego przyjaciela, ale prawdopodobnie wszystko wyjdzie w praniu gdy znów zapoznamy się na nowo.`
+`Ale jestem zaskoczony.`
+` Jest dokładnie tak jak ją zapamiętałem sześć lat temu.`
+`Wygląda na to że poprostu ludzie niezbyt się zmieniają.`
+`{n}Jestem troszkę szczęśliwy że ona jest nadal taką niewinną dziewczynką jaką pamiętam.`
+`Jej imię się piszę {p:0:真里亞}.`
+`{n}...To imię nie jest zbyt trudne do odczytanja.`
+` Oczywiście, wymawia się to "Maria".`
+`{n}Trzeci znak wygląda jak krzyż, co jest całkiem czadowe.`
+`Jej uczucia nie pokazują się zbyt wiele na jej twarzy, więc to jest trudne żeby pomyśleć o czym myśli, ale właśnie w taki sposób jest na zewnątrz.`
+`{n}A wewnątrz, jest poprostu słodką, normalną dziewczynką.`
+`Następnie jest matka Marii, Ciotka Rosa.`
+`{n}Jest młodszą siostrą mojego taty.`
+`Rosa się piszę {p:0:楼座}.`
+` ...To jest imię które totalnie nie jest Japońskie.`
+`Przykro mi to mówić, jej imię jest prawię tak niedorzeczne jak u mojego Ojca...`
+` Muszę ją szanować żeby nie skończyć tak pieprzśnie jak on.`
+`...Kiedy on tym pomyśleć, wszystkie imiona w mojej rodzinie brzmią obco.`
+`{n}Dlaczego Dziadek ma na tym taką punkcie obsesje?`
+`Z jego powodu, nawet my wnuki musimy znosić to dziwne nadawania imion.`
+`{n}To nawet jest bardziej wkurzające odkąd własne imię Dziadka jest kompletnie normalne.`
+`W każdym razie, jest jedna rzecz o Ciocie Rosie która jest ogromną ulgą porównując do innych członków rodziny.`
+`Ten stary drań i Cioteczka Eva mają tą irytującą potrzebę dokuczania i wyśmiewania ludzi przez cały czas,`
+` ale nawet jeśli jest zpokrewniona z ich krwi, Ciotka Rosa w ogóle tak się nie zachowuje.`
+`Jest najbardziej zdroworozsądkową osobą z całego rodzeństwa.`
+`Tak jak Wujek Hideyoshi, jest miłą ciocią która zawsze jest po stronie dzieci.`
+`......Jednakże, możliwe że jest bardziej surowa jako rodzic, więc nie wydaje tyle kasy co Wujek Hideyoshi.`
+`Dobra.`
+` Teraz gdy mamy całą grupę członków rodziny która wejdzie na pokład samolotu.`
+`Jak na zawołanie, wszyscy się zebrali a tuż po tym ogłoszenie nagle rozbrzmiało się po holu.`
 `"Przepraszamy że musieliście czekać.`
-` Boarding will now commence for flight 201 to Niijima.`
-` We ask that the passengers please form two lines in front of the counter, behind the white line."`
+` Rozpocznie się wejście na pokład na lot 201 do Niijimy.`
+` Prosimy pasażerów o utworzenie dwóch rzędów przed ladą, za białą linią."`
 `"Rosa, ty nadal nie przeszłaś przez procedury lotniskowe, prawda? Pospiesz się."`
 `"O boże...!`
 ` Maria, chodź prędko!"`
 `"Uu!"`
-`We had to go through a metal detector before going out on the runway.`
-`Our small plane wasn't as massive as an international flight, but it was still a plane.`
+`Zanim dotarliśmy na pas startowy musieliśmy przejść przez wykrywacz metali.`
+`Nasz mały samolot nie jest tak masywny jak międzynarodowy lot, ale nadal to był samolot.`
 ` A staff member holding a metal detector checked us all.`
-`Once all of us cleared the check, we followed the staff member out onto the runway.`
+`Gdy wszyscy przeszli kontrolę, wyszliśmy za pracownikiem na pas startowy.`
 `Myśląc o tym, wszyscy tu obecni należą do rodziny Ushiromiya.`
-`To wyglądało to jak jakiś zarezerwowany lot czarterowy czy coś w tym stylu.`
+`Wyglądało to jak jakiś zarezerwowany lot czarterowy czy coś w tym stylu.`
 `Nasza grupa przodem zatrzymała się przed wejściem do samolotu.`
 `{n}Wtedy, nasza przewodniczka odwróciła się i przemówiła, patrząc na listę pasażerów.`
 `"Rozpocznie się wejście na pokład.`
