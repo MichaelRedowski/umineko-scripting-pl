@@ -1,74 +1,74 @@
-`".........Should've taken the boat...`
-`......the boat......"`
-`"Gonna faaalll!`
-` Gonna faaalll!`
+`".........Powienienem był wziąźć łódź...`
+`......łódź......"`
+`"Spadniemy!`
+` Spadniemy!`
 ` Uu‐uu‐uu‐uu!!"`
-`"Maria, that's enough!"`
-`"......But what a surprise.`
-` I thought there was nothing that could scare Battler‐kun."`
-`"This guy can't handle vehicles for some reason.`
-` Always yells about falling and sinking and stuff.`
-` You're a disgrace of a man, you are."`
-`"......Urgh, shut up.`
-` That thing was seriously shaking way too much...`
-` I just got a little stressed, since it was my first time on a small plane like that..."`
-`"You call that "a little stressed"?`
-` Heheheh, sounds like it'd be fun to take an overseas vacation with you, Battler‐kun.`
-` Would you like to go to Egypt with your aunt?`
-` You'd get to ride a plane for a full 14 hours!"`
+`"Maria, dosyć!"`
+`"......Ale co za niespodzianka.`
+` Myślałam że nie ma nic co mogłoby przestraszyć Battler‐kun'a."`
+`"Ten koleś nie może znieźć pojazdów z jakiegoś powodu.`
+` Zawsze się drze o spadanie i o cieknięcie i inne takie.`
+` Jesteś jako mężczyzna, wielkim rozczarowaniem."`
+`"......Urgh, zamknij się.`
+` Ta rzecz naprawdę się zbyt bardzo trząsła...`
+` Poprostu się lekko zestresowałem, odkąd to było moje pierwsze doświadczenie z takim maluteńkim samolotem..."`
+`"Ty nazywasz to "lekko się zestresować"?`
+` Heheheh, brzmi to jak swietna zabawa żeby wybierać się na wakacje po morzach i oceanach z tobą, Battler‐kun.`
+` Czy chciałbyś pojechać do egiptu ze swoją ciocią?`
+` będziesz wtedy musiał jechać samolotem przez pełne 14 godzin!"`
 `"Ahhahaha!`
-` There's a good plan.`
-` Battler‐kun, you should go let Eva nee‐san toughen you up some.`
-` But boy were you hilarious!`
+` To jest dobry plan.`
+` Battler‐kun, Powinieneś pozwolić Eva nee‐san trochę cię zahartować.`
+` Ale chłopcem jakim byłeś, przezabawne!`
 ` Ahhahahaha!"`
-`"Wahhahaha, now, now. Everyone's got their own strong and weak points.`
-` It's bad to laugh at 'em.`
+`"Wahhahaha, teraz, teraz. Wszyscy posiadają swoje mocne i słabe strony.`
+` To jest złe żeby się z nich śmiać.`
 ` Wahhahaha...!"`
-`"D‐Dad, you're laughing too.`
-` Hey, Maria‐chan, you shouldn't laugh anymore."`
-`"Shouldn't laugh anymore?`
+`"T-Tato, ty też się śmiejesz.`
+` Hej, Maria‐chan, nie powinnaś się już dłużej śmiać."`
+`"Nie powinnam się dłużej śmiać?`
 ` Uu!"`
-`Gyah, dammit!`
-` Is being scared of planes really such a big deal?`
-`{n}Everyone obviously thinks I'm a big oaf now...`
+`Gyah, cholera!`
+` czy banie się samolotów to naprawdę aż tak poważna sprawa?`
+`{n}Wszyscy zazwyczaj myśleli że jestem obecnie wielkim debilem...`
 ` Tch!`
-`We split up and took separate taxis from the airport to the harbor.`
-`{n}From there on, we would be taking a boat to the island.`
-`The islands are right next to each other, so it's not that far.`
-`{n}It would be a leisurely thirty minutes by boat.`
-`As we arrived at the pier where the boat to the island was anchored, we saw a silhouette waving its hand.`
+`Rozdzieliliśmy się i wzięliśmy osobne taksówki z lotniska aż do portu.`
+`{n}Właśnie teraz z tąd, braliśmy łódź żeby dotrzeć na wyspę.`
+`Wyspy były tuż obok siebie, więc to nie jest też aż tak daleko.`
+`{n}Łodzią to będzie bez pośpiechu około trzydzieści minut.`
+`Kiedy dotarliśmy już na molo gdzie łódź do wyspy była zakotwiczona, zobaczyliśmy sylwetkę machającego ręka.`
 `"George nii‐saaan!`
-` It's been so frickin' long!!"`
-`"Ah, Jessica‐chan, it's been a year since I saw you!`
-` You've gotten taller again, haven't you?"`
-`"Kyahaha, don't gimme that, it's embarrassing hearing that every year!"`
-`"......H‐hey, Aniki, you've gotta be kidding me.`
-` That's really Jessica?!"`
-`"Wait a sec, George nii‐san...`
-` This massive beast...`
-`is Battler?!"`
-`We both stared each other down.`
-`...She definitely didn't look this grown‐up in my memories, but I do remember her {c:86EF9C:crazy way of talking}.`
-`"Yo, Jessica!`
-` What's this now!`
-` You're kidding me, you look like a woman now!`
-` What're these, boobs? Even you managed to get a chest!`
-` Ihihi, let me rub 'em, let me~!"`
-`"Hey, screw you, I'm a blushing flower of 18!`
-` Just like hair grows out, so'll other stuff!`
-` You think I got boobs just so you can go and rub 'em, loser?!`
-` And what about you, got anything to back up that ridiculous size?!`
-` Did you remember to grow any actual muscle?!"`
-`"You'd better believe it, I'll show you how much training I've piled up since back then!!"`
-`"Oh, cram it!!`
-` I'll beat you at your own game!"`
-`This headstrong girl's name is Ushiromiya {p:0:朱志香}.`
-`......She was born under the same unlucky star as me, sharing the same kind of weird name.`
-` You see, {p:0:朱志香} is pronounced "Jessica".`
-`She's Dad's older brother's daughter.`
-`That older brother happens to be the eldest son of the Ushiromiya family, so I guess that also technically makes Jessica a direct heir to the Ushiromiya family.`
-`Since Jessica and I are the same age and had that type of boy‐girl rivalry between us,`
-` we've always been used to fighting and joking around together whenever the relatives gathered.`
+` Minęło tak cholernie długo!!"`
+`"Ah, Jessica‐chan, minął rok odkąd ostatnio cię widziałem!`
+` Znowu trochę podrosłać, co nie?"`
+`"Kyahaha, daj se z tym spokój, to wstydliwe słysząc to każdego roku!"`
+`"......H‐hej, Aniki, chyba sobie jaja robisz.`
+` To naprawdę Jessica?!"`
+`"Poczekaj sekundkę, George nii‐san...`
+` Czy ta masywna bestia...`
+`to Battler?!"`
+`Oboje się na siebie gapiliśmy.`
+`...Ona definytywnie nie wyglądała na tak dojrzałą w moich wspomnieniach, but ale pamiętam jej {c:86EF9C:szalony sposób ględzenia}.`
+`"Joł, Jessica!`
+` Cóż to teraz jest!`
+` Ty chyba sobie żartujesz, teraz naprawdę wyrosłaś na prawdziwą kobietę!`
+` Co to są, cycki? Nawet ty dorobiłaś się tych piersi!`
+` Ihihi, pozwól mi je pomacać, pozwól~!"`
+`"Hej, pieprzyj się, Jestem rumiejącą się osiemnastolatką!`
+` Tak jak mi włosy wyrosły, i inne rzeczy!`
+` Myślisz że mam cycki tylko po to żeby sobie je macać, przegrywie?!`
+` I co do ciebie, czy mam cokolwiek na poparcie tego absurdalnego rozmiaru??!`
+` Czy pamiętałeś o wyrobieniu prawdziwych mięśni?!"`
+`"Lepiej w to uwierz, Pokażę ci, ile treningów wykonałam od tamtego czasu!!"`
+`"A, niech to!!`
+` Pokonam cię w twojej własnej grze!"`
+`Te niezależnej imię dziewczyny to Ushiromiya {p:0:朱志香}.`
+`......Urodziła się nie pod gołym niebem, dzieląc się tym samym rodzajem dziwnego imienia.`
+` Widzicie, {p:0:朱志香} jest wymawiane jako "Jessica".`
+`Jest mojego taty starszego brata córką.`
+`Ten starszy brat najwidoczniej jest najstarszym synem rodziny Ushiromiya, więc wydaje mi się że technicznie rzecz biorąc Jessica  jest bezpośrednią spadkobierczynią rodziny Ushiromiya.`
+`Odkąd Jessica i ja byliśmy w tym samym wieku i mieliśmy ten rodzaj rywalizacji między chłopcami i dziewczynami,`
+` zawsze walczyliśmy i wygłupijaliśmy się dookoła gdziekolwiek nasze relacje by się zjednoczyły.`
 `Jessica grew more quickly, so she always had me beat in terms of size and physical strength.`
 `So, when we scuffled as a contest of strength like this, it usually went Jessica's way.`
 `So even though I clearly understand that I'm bigger now, I still feel like I can't win against Jessica with my strength.`
