@@ -1,13 +1,13 @@
-`The boat gave a big shudder.`
-`Seems we've docked at the harbor.`
-`{n}The boat driver came out and jumped to the pier with the mooring rope.`
-`A large man in a tuxedo was waiting there for us with a warm, smiling face.`
-`......I didn't know him, but judging by his clothes, I guessed that he was a servant of the Ushiromiya head house.`
-`"Welcome home, Milady.`
-` You were quite late, and I began to worry."`
-`"Ah, thanks for caring!`
-` The boat had Battler scared shitless.`
-` So we had to slow down for him.`
+`Łódź zadrżała.`
+`Wygląda na to że dotarliśmy do portu.`
+`{n}Kierowca łodzi wyszedł i wskoczył na molo za pomocą zacumowanej liny.`
+`W smokingu duży mężczyzna czekał na nas z ciepłą, uśmiechniętą buzią.`
+`......Nie znałem go, ale sądząc po jego ubraniach, Wydaje mi się że był służącym głową rodziny Ushiromiya.`
+`"Witaj w domu, Panienko.`
+` Zaczęliście się spóźniać, i zacząłem się martwić."`
+`"Ah, dziękuję za troskę!`
+` Łódź sprawiła że Battler zaczął srać po gaciach.`
+` Więc musieliśmy trochę dla niego zwolnić.`
 ` Seriously, what a pain in the ass!"`
 `"S‐shut up... I'll remember this when the shoe's on the other foot someday... ugghh."`
 `At this rate, the word'll spread around the entire family, and I'll become the big conversation piece during dinner.`
