@@ -62,8 +62,8 @@
 `"Lepiej w to uwierz, Pokażę ci, ile treningów wykonałam od tamtego czasu!!"`
 `"A, niech to!!`
 ` Pokonam cię w twojej własnej grze!"`
-`Te niezależnej imię dziewczyny to Ushiromiya {p:0:朱志香}.`
-`......Urodziła się nie pod gołym niebem, dzieląc się tym samym rodzajem dziwnego imienia.`
+`Te nie do złamania imię dziewczyny to Ushiromiya {p:0:朱志香}.`
+`......Urodziła się nie pod gołym niebem, dzieląc się tym samym rodzajem dziwnych imion.`
 ` Widzicie, {p:0:朱志香} jest wymawiane jako "Jessica".`
 `Jest mojego taty starszego brata córką.`
 `Ten starszy brat najwidoczniej jest najstarszym synem rodziny Ushiromiya, więc wydaje mi się że technicznie rzecz biorąc Jessica  jest bezpośrednią spadkobierczynią rodziny Ushiromiya.`
