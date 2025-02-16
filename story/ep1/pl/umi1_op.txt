@@ -1,8 +1,8 @@
 `"............Znowu...`
 `oddałeś się alkoholowi, nieprawdaż?"`
 `Stary lekarz westchnął odkładając stetoskop.`
-`W słabo oświetlonym gabinecie pokrtytym kurzem i słodkawym odorem, widać było dwóch starszych mężczyzn.`
-`W kącie tego pokoju, który był znacznie większy niż to co większość ludzi nazwałaby gabinetem,`
+`W słabo oświetlonym gabinecie pokrtytym kurzem i słodkawym odorem, przebywało dwóch starszych mężczyzn.`
+`W kącie tego pokoju, który był znacznie większy, niż to co większość ludzi nazwałaby gabinetem,`
 ` znajdowało się drogo wyglądające łóżko, mężczyzna przeprowadzający badanie lekarsie, i lekarz je prowadzący.`
 `{n}Również co tam się znajdowało to służący patrzący na tą rozgrywającą się scene.`
 `"Butelka to moja przyjaciółka.`
