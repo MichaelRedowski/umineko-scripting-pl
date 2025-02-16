@@ -7,97 +7,97 @@
 `{n}Również co tam się znajdowało to służący patrzący na tą rozgrywającą się scene.`
 `"Butelka to moja przyjaciółka.`
 ` Jest niewiele gorszym przyjacielem niż ty, a dotrzymywała mi towarzystwa nawet dłużej."`
-`The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
+`Mężczyzna, który odsłonił swoją klatkę piersiową na potrzeby stetoskopu przemówił bez zawahania poprawiając ubrania.`
 `"............Kinzo‐{c:86EF9C:san}.`
-` ...Your body only appears to be well thanks to the effects of the medicine.`
-` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
-` ...Trust my judgment.`
-` Temper your drinking."`
-`"I thank you, though only for the sentiment,`
-` my friend.`
+` ...Twoje ciało jedynie jest zdrowe dzięki działaniom leków.`
+` Jednakże, jeśli nadal będziesz pił tak mocne trunki, leczenie stanie się bezkuteczne.`
+` ...Zaufaj mojemu osądowi.`
+` Powstrzymaj się od picia."`
+`"I thank you, choć tylko ze względu na sentyment,`
+` mój przyjacielu.`
 ` .........Genji.`
-` Another glass.`
-` Water it down slightly.`
-` That way Nanjo can save face."`
-`".........Are you quite sure?"`
-`After eyeing both the master who demanded the alcohol and his doctor who forbade it,`
-` Genji, the old butler, silently gave a slight nod and carried out his master's orders faithfully.`
-`Nanjo, the man's personal doctor, let out a deep sigh once again as he watched the butler busy himself alongside the liquor cabinet...`
-`There was a smell filling up the room.`
-`...This sweet, poisonous aroma felt as though it melted the heart, if not the soul itself.`
-` It was the smell of that venomous green drink that the man couldn't bring himself to part from.`
+` Kolejna szklanka.`
+` Ale lekko to rozcieńcz.`
+` W taki sposób Nanjo zachowa twarz."`
+`".........Jesteś pewien?"`
+`Po przyjrzeniu się zarówno na pana który domagał się jeszcze więcej alkoholu jak i jego lekarza który zabronił jego picia,`
+` Genji, stary kamerdyner, delikatnie się pokłonił i wykonał rozkazy swojego pana.`
+`Nanjo, osobisty lekarz mężczyzny, raz jescze głęboko westchnął patrząc na kamerdynera zajętego samego ze sobą szafkami z trunkami...`
+`W pokoju tym rozległ się po całości aromat.`
+`...Ten słodkawy, trujący aromat który sprawiał jak by się topiło serce, jeśli nie samą duszę.`
+` To był zapach tego jadowicie zielonego drinka z którym mężczyzna nie mógł się rozstać.`
 `"......Nanjo.`
-` You are my close friend of many years.`
-` I am deeply grateful for all that you have done to keep me alive this long."`
-`"I have done nothing.`
-` ......After all, you never listen to my advice as your physician."`
+` Jesteś moim bliskim przyjacielem od wielu lat.`
+` Jestem ci głęboko wdzięczny za wszystko co zrobiłeś żeby mnie utrzymać przy życiu tak długo."`
+`"Nic nie zrobiłem.`
+` ......W końcu, i tak nigdy nie słuchasz moje opinii jako twój lekarz."`
 `"Hahahaha...`
-` And you never listen when I warn you about a mistaken chess move you're about to make.`
-` It seems we are even."`
-`"......My lord."`
-`"Thank you.`
-` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
-`With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
-`...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
+` A ty nigdy nie słuchasz kiedy ostrzegam cię przed błędnym ruchem szachowym który zaraz popełnisz.`
+` Wygląda na to że jesteśmy kwitaq."`
+`"......Mój panie."`
+`"Dziękuję ci.`
+` ......Nie umarłbym gdyby zabrakło mi twoich leków, ale z pewnością gdyby zabrakło mi wszystko."`
+`Nie spuszczając wzroku z Nanjo, który miał zrezygnowany wyraz twarzy, Kinzo wziął szklankę, którą trzymał Genji.`
+`...Prawdopodobnie niewiele osób skojarzyłoby jadowity kolor wypełniający szklankę z napojem alkoholowym.`
 `".........Nanjo.`
-` Be honest with me.`
-` How much time do I have left?"`
-`"Well now...`
-` How short must I make it to get you to stop drinking?"`
-`Nanjo once again let out a sigh of resignation.`
-`{n}As he watched Kinzo down the glass regardless, he spoke.`
-`".........You don't have much time."`
-`"...What precisely do you mean by that?"`
-`"......Let us illustrate it with the chess game here.`
-` You are closing out the game quite well, but I do not ultimately see you cornering my king."`
-`Nanjo's gaze was directed at a side table with a stately chess set placed on top of it.`
-`Judging by the positioning of the pieces, the match was well into the endgame.`
-`{n}The black rook and bishop were cutting deeply into the enemy lines.`
-`The white king had already been castled and cornered, so that even an amateur could see that the match would reach its conclusion before too long.`
-`Every time Nanjo came to give a medical examination, both of them would make a few moves.`
-`Nanjo was stating with confidence that Kinzo would most likely fall into his eternal sleep before this game could be concluded.`
-`...These were less the words of a physician than they were the words of an old friend.`
-`"............Were you a normal patient,`
-` I would recommend that you write a will at this point."`
-`"......And what is a will, Nanjo?`
-` Handwritten instructions to the vultures on how to devour and scatter my corpse?"`
-`"No, not at all.`
-` ......As the word suggests, it is a way for you to record your will for later generations.`
-` It is far more than just a means to divide up your inheritance."`
+` Bądź szczery ze mną.`
+` Jak wiele czasu jeszcze mi pozostało?"`
+`"Cóż teraz...`
+` Jak krótko muszę to robić żebyś przestał pić?"`
+`Nanjo ponownie westchnął z rezygnacji.`
+`{n}Patrząc na Kinzo upuszczając szklankę bez względu na to, przemówił.`
+`".........Nie pozostało ci wiele czasu."`
+`"...Co dokładnie ma przez to na myśli?"`
+`"......Zilustrujmy to za pomocą gry szachów.`
+` Kończysz tą grę całkiem dobrze, lecz nie sądzę, abyś ostatecznie pokonał mojego króla."`
+`Wzrok Nanjo był skierowany na stronie stolika ze stojącymi szachami ustawione na górze.`
+`Sądząc po położeniu pionków, rozgrywka całkiem nieźle dobiega końca.`
+`{n}Czarna wieża i goniec wcinały się głęboko w linie wroga.`
+`A biały król już został osaczony, więc nawet amator mógł dostrzec że rozgrywka dobiegnie końca w niedługim czasie.`
+`Za każdym razem Nanjo przychodzi do mnie aby przeprowadzić badanie lekarskie, obaj wykonaliby kilka ruchów.`
+`Nanjo szacował z przekonaniem że Kinzo najprawdopodobniej zapadnie w jego głęboki sen zanim gra się skończy.`
+`...Nie były to słowa lekarza ale to były słowa jego starego przyjaciela.`
+`"............Gdybyś był normalnym pacjentem,`
+` Zaproponowałbym ci w tym momencie napisanie testamentu."`
+`"......A czym jest testament, Nanjo?`
+` Odręczne instrukcje dla drapieżników, jak pożreć i rozrzucić moje zwłoki?"`
+`"Nie, w ogóle.`
+` ......Jak samo słowo wskazuje, to jest sposób żeby przekazać to dalej to swoim pokoleniom.`
+` To znacznie więcej niż tylko sposób na podział spadku."`
 `"Hoh.`
-` ......And apart from the division of the inheritance, what might I write of?"`
-`"............Oh, there's your regrets...`
-`and matters you have left unfinished.`
-` Things you want to be passed down...`
-`...and things you want to tell.`
-` ......Anything you want."`
+` .....A oprócz podziału spadku, co jeszcze mogę napisać?"`
+`"............Oh, to mogą być twoje zażalenia...`
+`i sprawy które masz nieukończone.`
+` Rzeczy które chcesz żeby zostały przekazane...`
+`...rzecszy które chcesz opowiedzieć.`
+` ......Cokolwiek zechcesz."`
 `"......Hmph.`
-` .........Things I want to be passed down and things I want to tell?`
-` Ridiculous.`
-` I, Ushiromiya Kinzo, have not one thing I want to tell or leave behind!!"`
-`"I was born with nothing.`
-` I will die with nothing!`
-` There is nothing I wish to leave to my foolish children!!`
-` Even if the end were to come today—even if it were to come right now!`
-` I shall accept this fate of death without a trace of fear!!"`
+` .........Rzeczy które chce żeby zostały przekazane i opowiedziane?`
+` Niedorzeczne.`
+` Ja, Ushiromiya Kinzo, nie mam ani jednej rzeczy którą chcę opowiedzieć bądź przekazać!!"`
+`"Urodziłem się z niczym.`
+` Umrę z niczym!`
+` Nie ma nic co chce by zostało przekazane moim głupim dzieciom!!`
+` Nawet jeśli nadejdzie koniec właśnie-teraz!`
+` Muszę zaakceptować los śmierci bez śladu strachu!!"`
 `"......Kinzo‐san."`
-`"I created everything.`
-` My fortune!`
-` My prestige!`
-` Everything!!`
-` Those were built up by me, and they will be lost along with me.`
-` There is nothing I wish to leave behind!!"`
-`"Nothing!!`
-` After I'm gone, I care not if it all goes to waste!`
-` I desire no tomb, no coffin!!`
-` Those were the terms of the contract I made with the witch!`
-` When I die, everything will be lost!`
-` That has been part of the promise since the beginning, and that's why nothing will be left behind.`
-` There is nothing I can leave behind!!"`
-`After reaching a furious crescendo, Kinzo suddenly slumped over.`
-`...His expression was limp and feeble, as though an evil spirit had possessed him and then left.`
+`"Stworzyłem wszystko.`
+` Moją fortunę!`
+` Mój prestiż!`
+` Wszystko!!`
+` To zostało wszystko zbudowane ze mną, i przepadną razem ze mną.`
+` Nie ma nic co chce by zostało przekazane!!"`
+`"Nic!!`
+` Po tym jak umrę, nie obchodzi mnie to czy wszystko pójdzie na marne!`
+` Bez grobu, bez trumny!!`
+` Takie były pakty które zawarłem z wiedźmą!`
+` Kiedy umrę, wszystko przepadnie!`
+` To była część obietnicy od samego początku, and that's why nothing will be left behind.`
+` Nie ma nic co może być przekazane!!"`
+`Po osiągnięciu wściekłego crescendo, Kinzo nagle upadł na ziemię.`
+`...Jego wyraz twarzy był wiotki i, jakby zły duch go opętał, a potem opuścił.`
 `"..................`
-` However, I do have one regret.`
+` Jednakże, mam jedno zażalenie.`
 ` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
 `".........You would do well to write it down.`
 ` Of course, it would be best if you could finish it before your time comes.`
@@ -124,11 +124,11 @@
 ` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
 `"Please, appear before me one more time and smile!!`
 ` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
-` I don't want to die alone like this!!`
-` I cannot let myself die until I've seen your smile just one more time!!"`
+` Nie chcę umrzeć sam w taki sposób!!`
+` Nie mogę sam z siebie umrzeć dopóki nie zobacze twojego uśmiechu jeszcze raz!!"`
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
-` I offer up this life of mine, I offer it up to you!!`
-` I'm begging you, {f:5:Beatriceeeeee}!!!"`
+` Ofiaruję ci moje życie, Ofiaruję ci je!!`
+` Błagam cię, {f:5:Beatriceeeeee}!!!"`
 `"Łoa...`
 ` Sprawy z pewnością z czasem się zmiemiają...`
 ` Nie do uwierzenia we'll be able to make the trip in just twenty minutes..."`
