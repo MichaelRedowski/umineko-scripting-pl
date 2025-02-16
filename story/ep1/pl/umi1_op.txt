@@ -1,29 +1,30 @@
 `"............Znowu...`
 `oddałeś się alkoholowi, nieprawdaż?"`
 `Stary lekarz westchnął odkładając stetoskop.`
-`W słabo oświetlonym gabinecie pokrtytym kurzem i słodkawym odorem, przebywało dwóch starszych mężczyzn.`
-`W kącie tego pokoju, który był znacznie większy, niż to co większość ludzi nazwałaby gabinetem,`
-` znajdowało się drogo wyglądające łóżko, mężczyzna przeprowadzający badanie lekarsie, i lekarz je prowadzący.`
-`{n}Również co tam się znajdowało to służący patrzący na tą rozgrywającą się scene.`
+`W słabo oświetlonym gabinecie pokrtytym kurzem i wypełnionym słodkawym odorem, przebywało dwóch starszych mężczyzn.`
+`W kącie pokoju, znacznie większego, niż to, co większość ludzi nazwałaby gabinetem,`
+` stało kosztownie wyglądające łóżko, mężczyzna na którym przeprowadzano badanie oraz lekarz nadzorujący jego przebieg.`
+`{n}W pokoju obecny był również mężczyzna przypominający wyglądem kamerdynera, uważnie śledzący rozwój wydarzeń.`
 `"Butelka to moja przyjaciółka.`
-` Jest niewiele gorszym przyjacielem niż ty, a dotrzymywała mi towarzystwa nawet dłużej."`
-`Mężczyzna, który odsłonił swoją klatkę piersiową na potrzeby stetoskopu przemówił bez zawahania poprawiając ubrania.`
+` Jest niewiele gorszym przyjacielem niż ty, a u mego boku stoi ona nawet dłużej."`
+`Mężczyzna, który odsłonił pierś do badania stetoskopem, mówił bez cienia skrępowania, poprawiając ubranie.`
 `"............Kinzo‐{c:86EF9C:san}.`
-` ...Twoje ciało jedynie jest zdrowe dzięki działaniom leków.`
+` ...Twoje ciało jedynie wydaje się być zdrowe dzięki działaniu leków.`
 ` Jednakże, jeśli nadal będziesz pił tak mocne trunki, leczenie stanie się bezkuteczne.`
 ` ...Zaufaj mojemu osądowi.`
 ` Powstrzymaj się od picia."`
-`"Dziękuję ci, choć tylko ze względu na sentyment,`
+`"Dziękuję ci, choć mówię to tylko ze względu na sentyment do ciebie,`
 ` mój przyjacielu.`
 ` .........Genji.`
 ` Kolejna szklanka.`
 ` Ale lekko to rozcieńcz.`
 ` W taki sposób Nanjo zachowa twarz."`
 `".........Jesteś pewien?"`
-`Po przyjrzeniu się zarówno na pana który domagał się jeszcze więcej alkoholu jak i jego lekarza który zabronił jego picia,`
-` Genji, stary kamerdyner, delikatnie się pokłonił i wykonał rozkazy swojego pana.`
-`Nanjo, osobisty lekarz mężczyzny, raz jescze głęboko westchnął patrząc na kamerdynera zajętego samego ze sobą szafkami z trunkami...`
-`W pokoju tym rozległ się po całości aromat.`
+`Po przyjrzeniu się zarówno swojemu panu, który domagał się kolejnej porcji alkoholu, jak i jego lekarzowi, który mu tego zabraniał,`
+
+` Genji, stary kamerdyner, delikatnie się pokłonił i wykonał rozkaz.`
+`Nanjo, osobisty lekarz starszego mężczyzny, raz jeszcze głęboko westchnął. Jego wzrok spoczął na służącym przygotowującym trunek przy barku...`
+`W pokoju unosił się aromat.`
 `...Ten słodkawy, trujący aromat który sprawiał jak by się topiło serce, jeśli nie samą duszę.`
 ` To był zapach tego jadowicie zielonego drinka z którym mężczyzna nie mógł się rozstać.`
 `"......Nanjo.`
