@@ -98,32 +98,32 @@
 `...Jego wyraz twarzy był wiotki i, jakby zły duch go opętał, a potem opuścił.`
 `"..................`
 ` Jednakże, mam jedno zażalenie.`
-` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
-`".........You would do well to write it down.`
-` Of course, it would be best if you could finish it before your time comes.`
-` However, even if the worst happens, those who come after you will carry it to completion.`
-` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
-` ......That is the purpose of a will."`
-`When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
-`"That is no good, no good, no good!!"`
-`"It must be done while I still live! At the moment of my death, my soul will be devoured by the demons of the contract and wiped out of existence!`
-` For me, there will be no peace or another world after death!`
-` That's why everything must be done before I go!!`
-` That's why a will has no meaning for me!!"`
-`"And if I had the time to write such a thing...`
-` ...If I had such time to spare!!`
-` ...I'd want to see it.`
-` I'd want to see it one more time!`
-` I want to see {f:5:Beatrice}'s smiling face one last time!!"`
-`"Oh, {f:5:Beatrice}, why do you resist me so?!`
-` I would return everything you have given me right this very moment—I am prepared to lose everything!!`
-` So please, show me your smile just one more time..."`
-`"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that's the kind of woman you are!`
-` I beg of you, show yourself to me!!`
-` You're here, aren't you?!`
-` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
-`"Please, appear before me one more time and smile!!`
-` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
+` Nic nie mam do przekazania, aale jest jedna rzecz której nie mogę zostać niedokończonej..."`
+`".........Byłoby dobrze żebyś to zapisał.`
+` Oczywiście, byłoby najlepiej jakbyś to ukończył zanim twój czas nadejdzie.`
+` Jednakże, nawet jeśli stanie się najgorsze, ci którzy przyjdą po ciebie zajmą się tym żeby to ukończyć.`
+` Musisz to przekazać żeby to zostało skończone nawet ty nie jesteś w stanie zrobić tego sam.`
+` ......Taki jest cel testamentu."`
+`Kiedy Nanjo próbował delikatnie poklepać po ramieniu Kinzo, umierający człowiek wpadł w furię i odepchnął rękę Nanjo.`
+`"To bezużyteczne, bezużyteczne, bezużyteczne!!"`
+`"Musi być to skończone kiedy wciąż żyje! W momencie mojej śmierci, moja dusza będzie pochłonięty przez demonów z kontraktu i zostanie wymazana z istienia!`
+` Dla mnie, nie ma czegoś takiego jak pokój czy inny świat po śmiertnie!`
+` To dlatego musi być wszystko skończone zanim odejdę!!`
+` To dlatego testament nie ma dla mnie żadnego znaczenia!!"`
+`"I gdybym tylko miał czas żeby coś takiego napisać...`
+` ...Jeśli miałbym tyle czasu żeby poświęcić!!`
+` ...Chcę to zobaczyć.`
+` Chcę to zobaczyć jeszcze raz!`
+` Chcę zobacyzć uśmiechnięty wyraz twarzy {f:5:Beatrice} ostatni raz!!"`
+`"Oh, {f:5:Beatrice}, dlaczego się tak upierasz?!`
+` Jestem gotów poświęcić wszystko co dałaś mi w tym właśnie momencie—Jestem gotów stracić wszystko!!`
+` Więc proszę, pokaż mi ten swój uśmieszek tylko jeden raz..."`
+`"{f:5:Beatrice}, Błagam cię—musisz usłyszeć to ostatnie błaganie—taką własną kobietą jesteś!`
+` Błagam cię, ukaż się mnie!!`
+` Ty jesteś tu, czyż nie?!`
+` Stoisz tu nie widzialnie, słuchając mojego każdego słowa które powiem, i nawet teraz kpisz ze mnie gdzieś w tym pokoju, prawda?!"`
+`"Proszę, pokaż mi przede mną jeszcze raz i uśmiechnij się!!`
+` Czuj się wolna żeby mnie zbesztać, możesz ukraść moje życie własnymi rękoma jeśli chcesz!!`
 ` Nie chcę umrzeć sam w taki sposób!!`
 ` Nie mogę sam z siebie umrzeć dopóki nie zobacze twojego uśmiechu jeszcze raz!!"`
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
