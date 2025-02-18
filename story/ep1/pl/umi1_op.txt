@@ -24,7 +24,7 @@
 ` Genji, stary kamerdyner, delikatnie się pokłonił i wykonał rozkaz.`
 `Nanjo, osobisty lekarz starszego mężczyzny, raz jeszcze głęboko westchnął. Jego wzrok spoczął na służącym przygotowującym trunek przy barku...`
 `W pokoju unosił się aromat.`
-`...Ten słodkawy, trujący aromat który sprawiał jak by się topiło serce, jeśli nie samą duszę.`
+`...Ten słodkawy, trujący aromat który sprawiał że się topiło serce, jeśli nie samą duszę.`
 ` To był zapach tego jadowicie zielonego drinka z którym mężczyzna nie mógł się rozstać.`
 `"......Nanjo.`
 ` Jesteś moim bliskim przyjacielem od wielu lat.`
@@ -85,7 +85,7 @@
 ` Moją fortunę!`
 ` Mój prestiż!`
 ` Wszystko!!`
-` To zostało wszystko zbudowane ze mną, i przepadną razem ze mną.`
+` To zostało wszystko zbudowane włącznie ze mną, i również razem przepadną.`
 ` Nie ma nic co chce by zostało przekazane!!"`
 `"Nic!!`
 ` Po tym jak umrę, nie obchodzi mnie to czy wszystko pójdzie na marne!`
@@ -98,7 +98,7 @@
 `...Jego wyraz twarzy był wiotki i, jakby zły duch go opętał, a potem opuścił.`
 `"..................`
 ` Jednakże, mam jedno zażalenie.`
-` Nic nie mam do przekazania, aale jest jedna rzecz której nie mogę zostać niedokończonej..."`
+` Nic nie mam do przekazania, ale jest jedna rzecz której nie mogę zostać niedokończonej..."`
 `".........Byłoby dobrze żebyś to zapisał.`
 ` Oczywiście, byłoby najlepiej jakbyś to ukończył zanim twój czas nadejdzie.`
 ` Jednakże, nawet jeśli stanie się najgorsze, ci którzy przyjdą po ciebie zajmą się tym żeby to ukończyć.`
@@ -114,7 +114,7 @@
 ` ...Jeśli miałbym tyle czasu żeby poświęcić!!`
 ` ...Chcę to zobaczyć.`
 ` Chcę to zobaczyć jeszcze raz!`
-` Chcę zobacyzć uśmiechnięty wyraz twarzy {f:5:Beatrice} ostatni raz!!"`
+` Chcę zobacyzć uśmiechnięty wyraz twarzy {f:5:Beatrice} po raz ostatni!!"`
 `"Oh, {f:5:Beatrice}, dlaczego się tak upierasz?!`
 ` Jestem gotów poświęcić wszystko co dałaś mi w tym właśnie momencie—Jestem gotów stracić wszystko!!`
 ` Więc proszę, pokaż mi ten swój uśmieszek tylko jeden raz..."`
