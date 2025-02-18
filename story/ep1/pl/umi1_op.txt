@@ -50,7 +50,7 @@
 `"...Co dokładnie masz przez to na myśli?"`
 `"......Zilustrujmy to za pomocą gry szachów.`
 ` Kończysz tą grę całkiem dobrze, lecz nie sądzę, abyś ostatecznie pokonał mojego króla."`
-`Wzrok Nanjo był skierowany na stronie stolika ze stojącymi szachami ustawione na górze.`
+`Wzrok Nanjo był skierowany na stronie stolika ze stojącymi szachami ustawionymi na górze.`
 `Sądząc po położeniu pionków, rozgrywka całkiem nieźle dobiega końca.`
 `{n}Czarna wieża i goniec wcinały się głęboko w linie wroga.`
 `A biały król już został osaczony, więc nawet amator mógł dostrzec że rozgrywka dobiegnie końca w niedługim czasie.`
