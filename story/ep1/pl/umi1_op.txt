@@ -38,47 +38,47 @@
 `"Dziękuję ci.`
 ` ......Nie umarłbym gdyby zabrakło mi twoich leków, ale z pewnością gdyby zabrakło mi tego."`
 `Nie spuszczając wzroku z Nanjo, który miał zrezygnowany wyraz twarzy, Kinzo wziął szklankę, którą trzymał Genji.`
-`...Prawdopodobnie niewiele osób skojarzyłoby jadowity kolor wypełniający szklankę z napojem alkoholowym.`
+`...Prawdopodobnie niewiele osób skojarzyłoby ten jadowity kolor z wypełnioną szklanką z napojem alkoholowym.`
 `".........Nanjo.`
 ` Bądź szczery ze mną.`
-` Jak wiele czasu jeszcze mi pozostało?"`
+` Ile czasu jeszcze mi pozostało?"`
 `"Cóż teraz...`
 ` Jak krótko muszę to robić żebyś przestał pić?"`
 `Nanjo ponownie westchnął z rezygnacji.`
 `{n}Patrząc na Kinzo upuszczając szklankę bez względu na to, przemówił.`
 `".........Nie pozostało ci wiele czasu."`
-`"...Co dokładnie ma przez to na myśli?"`
+`"...Co dokładnie masz przez to na myśli?"`
 `"......Zilustrujmy to za pomocą gry szachów.`
 ` Kończysz tą grę całkiem dobrze, lecz nie sądzę, abyś ostatecznie pokonał mojego króla."`
 `Wzrok Nanjo był skierowany na stronie stolika ze stojącymi szachami ustawione na górze.`
 `Sądząc po położeniu pionków, rozgrywka całkiem nieźle dobiega końca.`
 `{n}Czarna wieża i goniec wcinały się głęboko w linie wroga.`
 `A biały król już został osaczony, więc nawet amator mógł dostrzec że rozgrywka dobiegnie końca w niedługim czasie.`
-`Za każdym razem Nanjo przychodzi do mnie aby przeprowadzić badanie lekarskie, obaj wykonaliby kilka ruchów.`
+`Za każdym razem Nanjo przychodzi do mnie aby przeprowadzić na mnie badanie, oboje wykonujemy kilka ruchów.`
 `Nanjo szacował z przekonaniem że Kinzo najprawdopodobniej zapadnie w jego głęboki sen zanim gra się skończy.`
 `...Nie były to słowa lekarza ale to były słowa jego starego przyjaciela.`
 `"............Gdybyś był normalnym pacjentem,`
 ` Zaproponowałbym ci w tym momencie napisanie testamentu."`
 `"......A czym jest testament, Nanjo?`
 ` Odręczne instrukcje dla drapieżników, jak pożreć i rozrzucić moje zwłoki?"`
-`"Nie, w ogóle.`
-` ......Jak samo słowo wskazuje, to jest sposób żeby przekazać to dalej to swoim pokoleniom.`
+`"Nie, wcale.`
+` ......Jak samo słowo wskazuje, to jest sposób żeby przekazać to dalej swoim pokoleniom.`
 ` To znacznie więcej niż tylko sposób na podział spadku."`
 `"Hoh.`
 ` .....A oprócz podziału spadku, co jeszcze mogę napisać?"`
 `"............Oh, to mogą być twoje zażalenia...`
 `i sprawy które masz nieukończone.`
 ` Rzeczy które chcesz żeby zostały przekazane...`
-`...rzecszy które chcesz opowiedzieć.`
+`...rzeczy które chcesz opowiedzieć.`
 ` ......Cokolwiek zechcesz."`
 `"......Hmph.`
-` .........Rzeczy które chce żeby zostały przekazane i opowiedziane?`
+` .........Rzeczy które chce żeby zostały przekazane czy opowiedziane?`
 ` Niedorzeczne.`
 ` Ja, Ushiromiya Kinzo, nie mam ani jednej rzeczy którą chcę opowiedzieć bądź przekazać!!"`
 `"Urodziłem się z niczym.`
 ` Umrę z niczym!`
 ` Nie ma nic co chce by zostało przekazane moim głupim dzieciom!!`
-` Nawet jeśli nadejdzie koniec właśnie-teraz!`
+` Nawet jeśli nadejdzie mój koniec właśnie-teraz!`
 ` Muszę zaakceptować los śmierci bez śladu strachu!!"`
 `"......Kinzo‐san."`
 `"Stworzyłem wszystko.`
@@ -89,20 +89,20 @@
 ` Nie ma nic co chce by zostało przekazane!!"`
 `"Nic!!`
 ` Po tym jak umrę, nie obchodzi mnie to czy wszystko pójdzie na marne!`
-` Bez grobu, bez trumny!!`
+` Nie chcę grobu, ani trumny!!`
 ` Takie były pakty które zawarłem z wiedźmą!`
 ` Kiedy umrę, wszystko przepadnie!`
 ` To była część obietnicy od samego początku, i to powód dlaczego nic po mojej śmierci nie będzie zachowane.`
 ` Nie ma nic co może być przekazane!!"`
 `Po osiągnięciu wściekłego crescendo, Kinzo nagle upadł na ziemię.`
-`...Jego wyraz twarzy był wiotki i, jakby zły duch go opętał, a potem opuścił.`
+`...Jego wyraz twarzy był wiotki i, jakby zły duch go opętał, a następnie opuścił.`
 `"..................`
 ` Jednakże, mam jedno zażalenie.`
 ` Nic nie mam do przekazania, ale jest jedna rzecz której nie mogę zostać niedokończonej..."`
 `".........Byłoby dobrze żebyś to zapisał.`
-` Oczywiście, byłoby najlepiej jakbyś to ukończył zanim twój czas nadejdzie.`
+` Oczywiście, byłoby najlepiej jakbyś to ukończył zanim nadejdzie twój czas.`
 ` Jednakże, nawet jeśli stanie się najgorsze, ci którzy przyjdą po ciebie zajmą się tym żeby to ukończyć.`
-` Musisz to przekazać żeby to zostało skończone nawet ty nie jesteś w stanie zrobić tego sam.`
+` Musisz to przekazać żeby to zostało skończone nawet jeśli ty nie jesteś w stanie dokończyć tego sam.`
 ` ......Taki jest cel testamentu."`
 `Kiedy Nanjo próbował delikatnie poklepać po ramieniu Kinzo, umierający człowiek wpadł w furię i odepchnął rękę Nanjo.`
 `"To na nic, na nic, na nic!!"`
@@ -116,14 +116,14 @@
 ` Chcę to zobaczyć jeszcze raz!`
 ` Chcę zobacyzć uśmiechnięty wyraz twarzy {f:5:Beatrice} po raz ostatni!!"`
 `"Oh, {f:5:Beatrice}, dlaczego się tak upierasz?!`
-` Jestem gotów poświęcić wszystko co dałaś mi w tym właśnie momencie—Jestem gotów stracić wszystko!!`
+` Jestem gotów poświęcić wszystko co dałaś mi w tym właśnie momencie—jestem gotów stracić wszystko!!`
 ` Więc proszę, pokaż mi ten swój uśmieszek tylko jeden raz..."`
-`"{f:5:Beatrice}, Błagam cię—musisz usłyszeć to ostatnie błaganie—taką własną kobietą jesteś!`
+`"{f:5:Beatrice}, Błagam cię—musisz usłyszeć to ostatnie błaganie—taką właśnie kobietą jesteś!`
 ` Błagam cię, ukaż się mnie!!`
 ` Ty jesteś tu, czyż nie?!`
 ` Stoisz tu nie widzialnie, słuchając mojego każdego słowa które powiem, i nawet teraz kpisz ze mnie gdzieś w tym pokoju, prawda?!"`
 `"Proszę, pokaż mi przede mną jeszcze raz i uśmiechnij się!!`
-` Czuj się wolna żeby mnie zbesztać, możesz ukraść moje życie własnymi rękoma jeśli chcesz!!`
+` Czuj się wolna żeby mnie zbesztać, możesz ukraść moje życie własnymi rękoma jeśli zechcesz!!`
 ` Nie chcę umrzeć sam w taki sposób!!`
 ` Nie mogę sam z siebie umrzeć dopóki nie zobacze twojego uśmiechu jeszcze raz!!"`
 `"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
